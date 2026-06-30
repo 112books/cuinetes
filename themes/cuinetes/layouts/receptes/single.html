@@ -1,0 +1,51 @@
+{{ define "main" }}
+<article class="recepta-single">
+
+  {{ with .Params.image }}
+  <div class="recepta-hero">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="recepta-hero-img">
+  </div>
+  {{ end }}
+
+  <div class="recepta-wrap">
+
+    <header class="recepta-header">
+      {{ with .Params.categories }}
+      <p class="recepta-cat"><a href="/categories/{{ index . 0 | urlize }}/">{{ index . 0 | humanize }}</a></p>
+      {{ end }}
+      <h1 class="recepta-title">{{ .Title }}</h1>
+      {{ with .Params.lead }}<p class="recepta-lead">{{ . }}</p>{{ end }}
+
+      <div class="recepta-meta">
+        {{ with .Params.temps }}<div class="meta-item"><span class="meta-label">Temps</span><span class="meta-val">{{ . }}</span></div>{{ end }}
+        {{ with .Params.racions }}<div class="meta-item"><span class="meta-label">Racions</span><span class="meta-val">{{ . }}</span></div>{{ end }}
+        {{ with .Params.dificultat }}<div class="meta-item"><span class="meta-label">Dificultat</span><span class="meta-val dificultat--{{ . }}">{{ . }}</span></div>{{ end }}
+      </div>
+
+      {{ with .Params.tags }}
+      <div class="recepta-tags">
+        {{ range . }}
+        <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </header>
+
+    <div class="recepta-body">
+      {{ .Content }}
+    </div>
+
+  </div>
+
+  {{ $related := first 3 (where (site.RegularPages.Related .) "Type" "receptes") }}
+  {{ with $related }}
+  <section class="receptes-relacionades">
+    <h2 class="section-title">Potser també t'agrada</h2>
+    <div class="receptes-grid receptes-grid--3">
+      {{ range . }}{{ partial "recepta-card.html" . }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+</article>
+{{ end }}

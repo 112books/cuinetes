@@ -1,0 +1,26 @@
+{{ $r := . }}
+<article class="recepta-card">
+  <a href="{{ $r.Permalink }}" class="card-link" tabindex="-1" aria-hidden="true">
+    {{ with $r.Params.image }}
+    <div class="card-img">
+      <img src="{{ . }}" alt="{{ $r.Title }}" loading="lazy">
+    </div>
+    {{ else }}
+    <div class="card-img card-img--placeholder" aria-hidden="true"></div>
+    {{ end }}
+  </a>
+  <div class="card-body">
+    {{ with $r.Params.categories }}
+    <span class="card-cat">{{ index . 0 | humanize }}</span>
+    {{ end }}
+    <h2 class="card-title">
+      <a href="{{ $r.Permalink }}">{{ $r.Title }}</a>
+    </h2>
+    {{ with $r.Params.lead }}<p class="card-lead">{{ . }}</p>{{ end }}
+    <div class="card-meta">
+      {{ with $r.Params.temps }}<span>{{ . }}</span>{{ end }}
+      {{ with $r.Params.racions }}<span>{{ . }} racions</span>{{ end }}
+      {{ with $r.Params.dificultat }}<span class="dificultat dificultat--{{ . }}">{{ . }}</span>{{ end }}
+    </div>
+  </div>
+</article>

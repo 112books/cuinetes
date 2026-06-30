@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1 class="page-title">{{ .Title }}</h1>
+</div>
+
+<ul class="taxonomy-list">
+  {{ range .Pages }}
+  <li class="taxonomy-item">
+    <a href="{{ .Permalink }}" class="taxonomy-link">
+      <span class="taxonomy-name">{{ .Title | humanize }}</span>
+      <span class="taxonomy-count">{{ len .Pages }} receptes</span>
+    </a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

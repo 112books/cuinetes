@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1 class="page-title">{{ .Title }}</h1>
+  {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+</div>
+
+<div class="receptes-grid">
+  {{ range .Pages }}
+    {{ partial "recepta-card.html" . }}
+  {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

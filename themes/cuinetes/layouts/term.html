@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="page-header">
+  <p class="page-breadcrumb"><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a></p>
+  <h1 class="page-title">{{ .Title | humanize }}</h1>
+  <p class="page-count">{{ len .Pages }} {{ if eq (len .Pages) 1 }}recepta{{ else }}receptes{{ end }}</p>
+</div>
+
+<div class="receptes-grid">
+  {{ range .Pages }}
+    {{ partial "recepta-card.html" . }}
+  {{ end }}
+</div>
+{{ end }}
