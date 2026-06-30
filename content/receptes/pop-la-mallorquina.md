@@ -13,8 +13,6 @@ temps: ""
 racions: 4
 ---
 
-[](http://cuinetes.linuxbcn.com/wp-content/uploads/2014/01/pop01.jpg)
-
 Recepta de @benjami Villoslada 😉
 
 Aquesta setmana he vist una recepta al Facebook d'un [pop a la mallorquina](https://www.facebook.com/photo.php?fbid=10151912706426325&set=a.10150644528611325.399645.557931324&type=1&theater&notif_t=photo_reply) i, casualment, tenia 4 pops mitjans de platja acabats de comprar a la peixeteria.
@@ -42,4 +40,3 @@ No us espanteu, en pocs minuts començareu a sentir un «tot-toc-toc», és el p
 
 Apa, a disfrutar d'aquesta recepta que esta bonisssima!
 
-[](http://3.bp.blogspot.com/-P9ATfq-KsFA/Utk97RBZ3KI/AAAAAAAEAxc/I10vUg-sAjI/s1600/pop02.jpg)

@@ -3,7 +3,7 @@
   --bg:      #ffffff;
   --bg2:     #f7f5f2;
   --fg:      #1a1a1a;
-  --mid:     #888888;
+  --mid:     #666666;
   --line:    #e8e4df;
   --accent:  #3d6b3a;
   --accent2: #8b6914;
@@ -371,17 +371,52 @@ main    { min-height: 60vh; }
 .pag-single h1 { font-size: 2rem; margin-bottom: 1.5rem; }
 .pag-content p { margin-bottom: 1rem; }
 
+/* ── Skip link (accessibilitat) ────────────────────────────── */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 9999;
+  font-family: var(--font-ui);
+  font-size: .875rem;
+  font-weight: 600;
+}
+.skip-link:focus {
+  left: 0;
+  top: 0;
+  background: var(--accent);
+  color: #fff;
+  padding: .5rem 1.25rem;
+  text-decoration: none;
+}
+
+/* ── Focus visible (accessibilitat teclat) ─────────────────── */
+a:focus-visible,
+button:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
 /* ── Responsive ────────────────────────────────────────────── */
+@media (min-width: 641px) and (max-width: 859px) {
+  .receptes-grid { grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); }
+  .hero { padding: 3.5rem var(--gap) 3rem; }
+}
+
 @media (max-width: 640px) {
   .hero { padding: 3rem var(--gap) 2.5rem; }
   .nav-toggle {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    width: 24px; height: 18px;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: 44px; height: 44px;
     background: none; border: none; cursor: pointer; padding: 0;
   }
-  .nav-toggle span { display: block; width: 100%; height: 2px; background: var(--fg); border-radius: 2px; }
+  .nav-toggle span { display: block; width: 22px; height: 2px; background: var(--fg); border-radius: 2px; }
   .nav-menu {
     display: none;
     position: absolute;
