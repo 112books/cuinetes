@@ -127,9 +127,56 @@ main    { min-height: 60vh; }
   margin-bottom: 1.5rem;
 }
 
+/* ── Home layout ───────────────────────────────────────────── */
+.home-cols {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 3rem var(--gap);
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 3rem;
+  align-items: start;
+}
+@media (max-width: 900px) {
+  .home-cols { grid-template-columns: 1fr; }
+  .home-instagram { order: -1; }
+}
+
+/* ── Instagram CTA ─────────────────────────────────────────── */
+.home-instagram { position: sticky; top: 90px; }
+.instagram-cta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: .75rem;
+  padding: 2rem 1.5rem;
+  border: 1.5px solid var(--line);
+  border-radius: 8px;
+  color: var(--fg);
+  transition: border-color .2s, box-shadow .2s;
+}
+.instagram-cta:hover {
+  border-color: #c13584;
+  box-shadow: 0 2px 16px color-mix(in srgb, #c13584 12%, transparent);
+}
+.instagram-icon { color: #c13584; }
+.instagram-handle {
+  font-family: var(--font-ui);
+  font-size: .9375rem;
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+.instagram-sub {
+  font-family: var(--font-ui);
+  font-size: .8125rem;
+  color: var(--mid);
+  line-height: 1.4;
+}
+
 /* ── Receptes grid ─────────────────────────────────────────── */
 .receptes-recents,
-.receptes-grid-wrap { max-width: var(--max-w); margin: 0 auto; padding: 3rem var(--gap); }
+.receptes-grid-wrap { max-width: 100%; }
 
 .receptes-grid {
   display: grid;
@@ -349,22 +396,42 @@ main    { min-height: 60vh; }
 .dificultat--mitjana { color: var(--accent2); }
 .dificultat--avançada { color: #b94040; }
 
-/* ── Pagination ────────────────────────────────────────────── */
-.pagination {
+/* ── Paginació ─────────────────────────────────────────────── */
+.paginacio {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 2rem var(--gap) 3rem;
+}
+.paginacio-inner {
   display: flex;
-  justify-content: center;
-  gap: .5rem;
-  padding: 2rem var(--gap);
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  border-top: 1px solid var(--line);
+  padding-top: 2rem;
+}
+.pag-btn {
   font-family: var(--font-ui);
   font-size: .875rem;
-}
-.pagination a, .pagination span {
-  padding: .4rem .8rem;
-  border: 1px solid var(--line);
+  font-weight: 600;
+  padding: .6rem 1.25rem;
+  border: 2px solid var(--fg);
   border-radius: var(--radius);
+  color: var(--fg);
+  transition: background .15s, color .15s;
 }
-.pagination a:hover { border-color: var(--accent); color: var(--accent); }
-.pagination .active { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.pag-btn:hover { background: var(--fg); color: var(--bg); }
+.pag-btn--disabled {
+  border-color: var(--line);
+  color: var(--mid);
+  cursor: default;
+  pointer-events: none;
+}
+.pag-info {
+  font-family: var(--font-ui);
+  font-size: .8125rem;
+  color: var(--mid);
+}
 
 /* ── Pàgina simple ─────────────────────────────────────────── */
 .pag-single { max-width: var(--max-w-text); margin: 3rem auto; padding: 0 var(--gap); }

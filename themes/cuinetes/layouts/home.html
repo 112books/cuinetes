@@ -12,15 +12,32 @@
   </ul>
 </section>
 
-<section class="receptes-recents">
-  <h2 class="section-title">Darreres receptes</h2>
-  <div class="receptes-grid">
-    {{ range first 12 (where site.RegularPages "Type" "receptes") }}
-      {{ partial "recepta-card.html" . }}
-    {{ end }}
-  </div>
-  <div class="section-more">
-    <a href="/receptes/" class="btn">Totes les receptes</a>
-  </div>
-</section>
+<div class="home-cols">
+  <section class="receptes-recents">
+    <h2 class="section-title">Darreres receptes</h2>
+    <div class="receptes-grid">
+      {{ range first 12 (where site.RegularPages "Type" "receptes") }}
+        {{ partial "recepta-card.html" . }}
+      {{ end }}
+    </div>
+    <div class="section-more">
+      <a href="/receptes/" class="btn">Totes les receptes</a>
+    </div>
+  </section>
+
+  <aside class="home-instagram">
+    <h2 class="section-title">Instagram</h2>
+    <a href="https://www.instagram.com/cuinetes_linuxbcn/" target="_blank" rel="noopener" class="instagram-cta">
+      <div class="instagram-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="32" height="32">
+          <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+          <circle cx="12" cy="12" r="4"/>
+          <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+        </svg>
+      </div>
+      <span class="instagram-handle">@cuinetes_linuxbcn</span>
+      <span class="instagram-sub">Fotos del dia a dia a la cuina</span>
+    </a>
+  </aside>
+</div>
 {{ end }}
