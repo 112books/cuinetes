@@ -21,4 +21,4 @@ racions: 4
 
   
   
-Estic recuperant fotos antiges de receptes. Per la recepta utilitzar [Pizza genèrica](https://cuinetes.linuxbcn.com/2013/03/20/la-pizza-de-giorgia/) (gràcies Giorgia).
+Estic recuperant fotos antiges de receptes. Per la recepta utilitzar [Pizza genèrica](/receptes/la-pizza-de-giorgia/) (gràcies Giorgia).

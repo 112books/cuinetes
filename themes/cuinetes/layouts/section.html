@@ -4,10 +4,12 @@
   {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
 </div>
 
-<div class="receptes-grid">
-  {{ range .Pages }}
-    {{ partial "recepta-card.html" . }}
-  {{ end }}
+<div class="receptes-grid-wrap">
+  <div class="receptes-grid">
+    {{ range .Pages }}
+      {{ partial "recepta-card.html" . }}
+    {{ end }}
+  </div>
 </div>
 
 {{ partial "pagination.html" . }}
