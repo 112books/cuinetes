@@ -1,0 +1,27 @@
+{
+  "generated": "2026-06-29T18:55:06.287824Z",
+  "period": {
+    "start": "2025-06-29",
+    "end": "2026-06-29"
+  },
+  "total": 0,
+  "total_unique": 0,
+  "hits_by_day": [],
+  "hits": [],
+  "by_lang": {},
+  "by_section": {},
+  "noticies_top": [],
+  "festivals_top": [],
+  "wizard_funnel": {
+    "wizard-s1": 0,
+    "wizard-s2": 0,
+    "wizard-s3": 0,
+    "wizard-s4": 0,
+    "wizard-sent": 0
+  },
+  "browsers": [],
+  "systems": [],
+  "sizes": [],
+  "locations": [],
+  "refs": []
+}
