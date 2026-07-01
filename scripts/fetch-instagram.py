@@ -17,6 +17,7 @@ except ImportError:
     sys.exit(1)
 
 IG_USER   = os.environ.get("IG_USERNAME", "cuinetes_linuxbcn")
+IG_PASS   = os.environ.get("IG_PASSWORD", "")
 MAX_POSTS = int(os.environ.get("IG_MAX_POSTS", "9"))
 OUT_JSON  = Path("static/instagram.json")
 IMG_DIR   = Path("static/images/instagram")
@@ -32,6 +33,16 @@ L = instaloader.Instaloader(
     save_metadata=False,
     quiet=True,
 )
+
+if IG_PASS:
+    try:
+        L.login(IG_USER, IG_PASS)
+        print(f"Sessió iniciada com @{IG_USER}")
+    except Exception as e:
+        print(f"Login fallat: {e}", file=sys.stderr)
+        sys.exit(1)
+else:
+    print("Sense credencials — accés anònim (pot fallar)")
 
 print(f"Obtenint perfil @{IG_USER}...")
 try:

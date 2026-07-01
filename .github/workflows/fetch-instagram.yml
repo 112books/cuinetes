@@ -20,6 +20,7 @@ jobs:
         id: fetch
         env:
           IG_USERNAME: "cuinetes_linuxbcn"
+          IG_PASSWORD: ${{ secrets.IG_PASSWORD }}
           IG_MAX_POSTS: "9"
         run: |
           python3 scripts/fetch-instagram.py || {
