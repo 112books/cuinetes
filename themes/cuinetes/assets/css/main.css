@@ -411,11 +411,24 @@ main    { min-height: 60vh; }
 .receptes-relacionades .receptes-grid { max-width: var(--max-w); margin: 0 auto; }
 
 /* ── Footer ────────────────────────────────────────────────── */
-.footer-inner { display: flex; flex-direction: column; gap: .4rem; }
+.footer-inner { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+.footer-left { display: flex; flex-direction: column; gap: .4rem; }
 .footer-copy { font-family: var(--font-ui); font-size: .8rem; color: var(--mid); }
 .footer-copy a { color: var(--accent); }
 .footer-copy a:hover { text-decoration: underline; }
 .footer-tagline { font-family: var(--font-ui); font-size: .8rem; color: var(--mid); font-style: italic; }
+.footer-meta { font-family: var(--font-ui); font-size: .72rem; color: var(--mid); margin-top: .2rem; }
+.footer-meta a { color: var(--mid); text-decoration: none; }
+.footer-meta a:hover { text-decoration: underline; }
+.footer-powered { text-align: right; }
+.footer-powered-link { text-decoration: none; }
+.footer-powered-link:hover .footer-powered-by { text-decoration: underline; }
+.footer-powered-by { display: block; font-family: var(--font-ui); font-size: .8rem; font-weight: 600; color: var(--fg); }
+.footer-powered-tagline { display: block; font-family: var(--font-ui); font-size: .72rem; color: var(--mid); line-height: 1.5; margin-top: .2rem; }
+@media (max-width: 600px) {
+  .footer-inner { flex-direction: column; gap: 1rem; }
+  .footer-powered { text-align: left; }
+}
 
 /* ── Dificultat colors ──────────────────────────────────────── */
 .dificultat--fàcil   { color: var(--accent); }
