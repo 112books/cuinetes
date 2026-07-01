@@ -3,7 +3,7 @@ title: "Tsukemono casolans amb vinagre d’arròs"
 date: 2026-01-17
 draft: false
 categories:
-  - receptes
+  - entrants
 tags:
   - "acompanyaments"
   - "amazu-zuke"

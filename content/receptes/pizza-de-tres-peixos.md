@@ -3,7 +3,7 @@ title: "Pizza de tres peixos"
 date: 2021-12-14
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "anxoves"
   - "caballa"

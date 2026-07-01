@@ -3,7 +3,7 @@ title: "Una recepte més de Borratja; amb botifarra i picada de fruits secs"
 date: 2013-11-27
 draft: false
 categories:
-  - receptes
+  - guarnicions
 tags:
   - "borratja"
   - "botifarra"

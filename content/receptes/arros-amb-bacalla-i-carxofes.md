@@ -3,7 +3,7 @@ title: "Arròs amb bacallà i carxofes"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "arròs"
   - "bacallà"

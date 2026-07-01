@@ -3,7 +3,7 @@ title: "Llenguado allimonat, musclos i maduixes avinagrades"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 image: "/images/receptes/pasta_peix_broquil.jpg.scaled1000.jpg"
 lead: "La recepta d'avui és una adaptació a una pasta amb bròquil que vaig probar amb uns amics italians a London. En aquella ocasió era ben senzill però no per això dolent; Espagueti amb bròquil i Parma, re"
 dificultat: ""

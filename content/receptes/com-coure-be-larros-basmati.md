@@ -3,7 +3,7 @@ title: "Com coure bé l'arròs Basmati"
 date: 2023-01-09
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "arròs"
   - "basmati"

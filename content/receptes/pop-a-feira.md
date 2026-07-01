@@ -3,7 +3,7 @@ title: "Pops petits a feira"
 date: 2025-01-12
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "cuina gallega"
   - "cuina mediterrània"

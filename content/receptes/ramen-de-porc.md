@@ -3,8 +3,9 @@ title: "Ramen de porc"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - primers
 lead: "Dies fa ja que vaig descobrir a Barcelona el Ramen. Dies també ja fa que volia fer-lo jo a casa i gaudir-ne els dies de fred. Així que vaig cercar a Inernet i vaig iniciar-me amb aquest de porc i part"
+image: "/images/receptes/IMG_2386.jpg"
 dificultat: ""
 temps: ""
 racions: 4

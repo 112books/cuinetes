@@ -3,7 +3,7 @@ title: "Suquet de rap + sopa de peix"
 date: 2022-01-07
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "cebes"
   - "fumet"

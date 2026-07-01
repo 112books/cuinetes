@@ -3,10 +3,11 @@ title: "Sopa de Meló"
 date: 2021-12-05
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "cardamom"
 lead: "La recepta és més simple que el tauler de control d'un panda!!S'enxampa un meló, es pela i talla a trossets petits. Es posa en un recipient i se li dóna canya amb un turmix. Es pica en un morter el ca"
+image: "/images/receptes/image-3.png"
 dificultat: ""
 temps: ""
 racions: 4

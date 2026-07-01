@@ -3,14 +3,11 @@ title: "Restaurants japonesos a Barcelona"
 date: 2025-01-28
 draft: false
 categories:
-  - receptes
+  - recomanacions
 tags:
   - "fukumura"
 image: "/images/receptes/IMG_9888.jpg"
 lead: "Aquest petit post és una recomanació dels restaurants japonesos que més m'agraden de Barcelona. Cap d'ells patrocina ni paga res a aquest petit blog, ni falta que fa. És una llista perquè jo els recor"
-dificultat: ""
-temps: ""
-racions: 4
 ---
 
 Aquest petit post és una recomanació dels restaurants japonesos que més m'agraden de Barcelona. Cap d'ells patrocina ni paga res a aquest petit blog, ni falta que fa. És una llista perquè jo els recordi.

@@ -3,10 +3,11 @@ title: "Carbassa farcida"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "carbassa"
 lead: "Doncs si, avui no sé per què però m'ha donar per posar-me a la cuina una estona. Ahir vaig tenir la idea i avui l'he posada en pràctica. Vaig comprar l'altre dia una carbassa i volia fer-la d'una form"
+image: "/images/receptes/image-1.png"
 dificultat: ""
 temps: ""
 racions: 4

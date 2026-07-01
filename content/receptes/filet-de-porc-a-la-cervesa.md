@@ -3,7 +3,7 @@ title: "Filet de porc a la cervesa Franziskaner"
 date: 2021-12-09
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "alls"
   - "ceps en pols"

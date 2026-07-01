@@ -3,7 +3,7 @@ title: "Escabetx catalano-japonès a la meva manera"
 date: 2025-01-14
 draft: false
 categories:
-  - receptes
+  - entrants
 tags:
   - "cuina asiàtica"
   - "cuina casolana"

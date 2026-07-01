@@ -3,7 +3,7 @@ title: "Escabetx de sardina"
 date: 2022-01-07
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "all"
   - "ceba"

@@ -54,3 +54,8 @@ buildFuture   = true
   name   = "Ingredients"
   url    = "/tags/"
   weight = 3
+
+[[menus.main]]
+  name   = "Recomanacions"
+  url    = "/recomanacions/"
+  weight = 4

@@ -3,7 +3,7 @@ title: "Pastís Vegetal"
 date: 2020-06-09
 draft: false
 categories:
-  - receptes
+  - postres
 tags:
   - "alberginia"
   - "emmental"

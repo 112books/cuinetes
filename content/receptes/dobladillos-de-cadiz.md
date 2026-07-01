@@ -3,7 +3,7 @@ title: "«Dobladillos del bar de La punta San Felipe» de Cadiz"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - entrants
 tags:
   - "cadiz"
   - "dobladilos"

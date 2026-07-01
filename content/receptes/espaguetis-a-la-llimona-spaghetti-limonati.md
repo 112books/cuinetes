@@ -3,7 +3,7 @@ title: "Espaguetis a la llimona (Spaghetti limonati)"
 date: 2025-12-01
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "cuina d’estiu"
   - "cuina senzilla"

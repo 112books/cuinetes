@@ -3,7 +3,7 @@ title: "Camagrocs amb patates (i llom embutxat, i formatge de Parmigiano-Reggian
 date: 2014-10-30
 draft: false
 categories:
-  - receptes
+  - guarnicions
 tags:
   - "bolets"
   - "camagrocs"

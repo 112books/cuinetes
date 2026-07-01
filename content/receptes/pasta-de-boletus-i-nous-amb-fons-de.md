@@ -3,7 +3,7 @@ title: "Pasta de boletus i nous amb fons de ceba confitada al cava"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "bolets"
   - "cava"

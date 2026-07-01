@@ -3,7 +3,7 @@ title: "Salmó al micro; menjar sanote 100&#215;100"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 image: "/images/receptes/salmo-micro.JPG.scaled1000.jpg"
 lead: "Bé, ja que darrerament tinc que fer bondat, inicio ara receptes super-sanes per evitar que el metge hem renyi. Avui us poso una mena de «Papillote» que he adaptat amb cocció al microones i així no emb"
 dificultat: ""

@@ -3,7 +3,7 @@ title: "Pollastre rostit amb patates"
 date: 2022-01-07
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "cebes"
   - "forn"

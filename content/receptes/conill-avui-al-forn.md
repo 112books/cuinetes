@@ -3,11 +3,12 @@ title: "Conill; avui al forn"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "conill"
   - "forn"
 lead: "Doncs l'altre dia tenia ganes de conill, però el volia fer d'alguna manera que mai hagés fet. Vaig pensar que al forn podria ser una bona opció encara podria quedar un xic sec. Aixi que vaig procedir "
+image: "/images/receptes/image-7.png"
 dificultat: ""
 temps: ""
 racions: 4

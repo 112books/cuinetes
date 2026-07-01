@@ -3,7 +3,7 @@ title: "Sarsuela per a 10-12 persones"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "alls"
   - "cebes"

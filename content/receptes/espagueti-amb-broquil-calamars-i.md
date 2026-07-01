@@ -3,7 +3,7 @@ title: "Espagueti amb broquil calamars i rossellones"
 date: 2013-04-04
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "broquil"
   - "calamars"

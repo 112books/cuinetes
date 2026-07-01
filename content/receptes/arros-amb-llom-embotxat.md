@@ -3,7 +3,7 @@ title: "Arròs amb llom embotxat"
 date: 2021-12-31
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "arròs"
   - "embotxat"

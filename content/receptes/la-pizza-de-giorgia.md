@@ -3,11 +3,12 @@ title: "La Pizza de Giorgia"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "farina"
   - "giorgia"
 lead: "Bé, una recepta més. Aquesta m’encanta. Fins aleshores feia la massa que la meva mare va ensenyar-me i que és bona i l’he utlitzat durant monts d’anys. Fe fet el farciment més bó per a mi és amb tonyi"
+image: "/images/receptes/image-8.png"
 dificultat: ""
 temps: ""
 racions: 4

@@ -3,7 +3,7 @@ title: "Papillot de salmó amb verduretes"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 image: "/images/receptes/papillot-de-salmo.jpg.scaled1000.jpg"
 lead: "Bé, avui ja que no tinc gas (problemes de llogistica domèstica) he tingut l'excusa perfecte per fer un dels platillos que més m'agraden; Papillot de peix! Així que he anat a comprar i he trobat uns ll"
 dificultat: ""

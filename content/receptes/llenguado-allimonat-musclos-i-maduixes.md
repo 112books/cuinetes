@@ -3,7 +3,7 @@ title: "Llenguado allimonat, musclos i maduixes avinagrades"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 image: "/images/receptes/IMG_0336.jpg.scaled1000.jpg"
 lead: "Avui, per celebrar el dia assolellat que fa, he preparat un dinar ràpid, sa i econòmic. He passat per el super i he comprat un parell de llenguados i uns musclos. La preparació de lo més senzill: Els "
 dificultat: ""

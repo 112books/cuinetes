@@ -3,7 +3,7 @@ title: "Mini pizzes"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - entrants
 image: "/images/receptes/minipizzes01.jpeg.scaled1000.jpg"
 lead: "Estic recuperant fotos antiges de receptes. Per la recepta utilitzar Pizza genèrica (gràcies Giorgia)."
 dificultat: ""

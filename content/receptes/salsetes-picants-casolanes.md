@@ -3,7 +3,7 @@ title: "Salsetes picants casolanes"
 date: 2023-11-01
 draft: false
 categories:
-  - receptes
+  - entrants
 image: "/images/receptes/IMG_2392.jpg"
 lead: "Ahir vaig anar a un gran supermercat (del que no farem propaganda ) a cercar salsa Kimchi, encara que no la vaig trobar. No obstant i aprofitant que ja estava allà vaig mirar si tindrien els famosos p"
 dificultat: ""

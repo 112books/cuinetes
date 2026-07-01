@@ -3,7 +3,7 @@ title: "Curri amb pollastre i verdures a la japonesa des de zero"
 date: 2025-01-03
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "cuina casolana"
   - "cuina japonesa"

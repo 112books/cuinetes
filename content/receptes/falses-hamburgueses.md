@@ -3,7 +3,7 @@ title: "Falses hamburgueses"
 date: 2022-03-02
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "falses hamburgueses"
   - "hamburguesa"
@@ -11,6 +11,7 @@ lead: "Bé, avui una d'hamburgueses sanes. Ja fa anys que no gastava Soja textur
 dificultat: ""
 temps: ""
 racions: 4
+image: "/images/receptes/falses-hamburgueses.jpg"
 ---
 
 Bé, avui una d'hamburgueses sanes.

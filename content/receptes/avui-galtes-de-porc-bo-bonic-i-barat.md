@@ -3,10 +3,11 @@ title: "Avui galtes de porc; bo, bonic i barat"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "galtes de porc"
 lead: "Doncs l'altre dia vaig comprar un «pack» de galtes de porc al Makro a molt bon preu. Mai n'havia fet però si menjat i m'encanten. Així que avui he cercat un xic a Sant Google i he trobat aquesta recep"
+image: "/images/receptes/image.png"
 dificultat: ""
 temps: ""
 racions: 4

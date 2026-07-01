@@ -3,7 +3,7 @@ title: "Pota de xai al forn"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "forn"
 image: "/images/receptes/Pota_de_xai_al_forn02.jpeg.scaled1000.jpg"

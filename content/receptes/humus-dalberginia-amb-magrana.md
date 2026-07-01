@@ -3,7 +3,7 @@ title: "Humus d'albergínia amb magrana"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - entrants
 tags:
   - "albergínia"
   - "humus"

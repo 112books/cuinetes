@@ -3,10 +3,11 @@ title: "Torrada amb Guacamole i salmó fumat"
 date: 2022-01-02
 draft: false
 categories:
-  - receptes
+  - entrants
 tags:
   - "guacamole"
 lead: "Aquests dies de molt cuinar aprofitant «sobres» ahir vaig preparar-me un sopar bó i sà. Aquí la recepta. Guacamole: 3 advocats madurs 3 llimes 4 tomàquets de pera 1 ceba tendre Julivert picat fresc (a"
+image: "/images/receptes/IMG_2778.jpg"
 dificultat: ""
 temps: ""
 racions: 4

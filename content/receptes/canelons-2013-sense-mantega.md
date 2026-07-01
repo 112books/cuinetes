@@ -3,7 +3,7 @@ title: "Canelons 2013 (sense mantega)"
 date: 2013-03-21
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "beixamel"
   - "canelons"

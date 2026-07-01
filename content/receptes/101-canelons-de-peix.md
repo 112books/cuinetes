@@ -3,7 +3,7 @@ title: "101 Canelons de peix"
 date: 2023-12-29
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "bolets"
   - "canelons"

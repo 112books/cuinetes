@@ -3,7 +3,7 @@ title: "Paella exprés"
 date: 2023-01-09
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "arròs"
   - "brou"

@@ -3,7 +3,7 @@ title: "Pop a la mallorquina"
 date: 2014-01-17
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "de la vera"
 image: "/images/receptes/pop01.jpg"

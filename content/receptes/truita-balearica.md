@@ -3,7 +3,7 @@ title: "Truita Baleàrica"
 date: 2020-04-11
 draft: false
 categories:
-  - receptes
+  - entrants
 tags:
   - "balears"
 image: "/images/receptes/001.jpg"

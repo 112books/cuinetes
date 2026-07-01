@@ -3,7 +3,7 @@ title: "Coliflor amb beixamel"
 date: 2022-01-09
 draft: false
 categories:
-  - receptes
+  - guarnicions
 tags:
   - "baco"
   - "beixamel"

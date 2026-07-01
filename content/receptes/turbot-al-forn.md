@@ -3,7 +3,7 @@ title: "Turbot al forn"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - segons
 image: "/images/receptes/IMG_0506-scaled.jpg"
 lead: "Aquí la recepta d'un dels peixo que més m'agraden de tots els que conec. El Turbot (que sembla que sigui un peix accelerat, però no, en castellà n'hi diuen Rodaballo). Aquesta recepta me la va passar "
 dificultat: ""

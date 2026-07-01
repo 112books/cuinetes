@@ -3,7 +3,7 @@ title: "Remanat de múrgoles"
 date: 2021-12-10
 draft: false
 categories:
-  - receptes
+  - guarnicions
 tags:
   - "bolets"
 image: "/images/receptes/IMG_9829-1.jpg"

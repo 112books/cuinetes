@@ -3,7 +3,7 @@ title: "Paella de marisc ràpida, senzilla i sense miraments"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "arròs"
   - "brou"

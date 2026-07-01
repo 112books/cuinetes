@@ -3,7 +3,7 @@ title: "Pollastre al forn amb la recepte d'en Martín Berasategui"
 date: 2023-01-07
 draft: false
 categories:
-  - receptes
+  - segons
 tags:
   - "forn"
 image: "/images/receptes/IMG_7547.jpeg"

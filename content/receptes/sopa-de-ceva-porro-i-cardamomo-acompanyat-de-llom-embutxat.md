@@ -3,11 +3,12 @@ title: "Sopa de ceba, porro i cardamomo, acompanyat de llom embutxat"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - primers
 tags:
   - "cardamom"
   - "ceba"
 lead: "Bé, el platillo d'avui. Inspirat amb una sopa de ceba explicada per Juan «Sin Sangre», un bon amic del barri.Preparació:  Es bullen 4 cebes grans senceres (treien't-hi la cua i les arrels) amb abundan"
+image: "/images/receptes/image-2.png"
 dificultat: ""
 temps: ""
 racions: 4

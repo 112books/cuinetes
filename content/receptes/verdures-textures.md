@@ -3,10 +3,11 @@ title: "Verdures / textures"
 date: 2013-03-20
 draft: false
 categories:
-  - receptes
+  - guarnicions
 tags:
   - "albergínia"
 lead: "Avui verdures.. però no tenia ganes de fer el «bullit» de sempre i m'ho he currat a «lomoerno». Bé, la cosa és senzilla: En una cassola he bullit patata, mongeta tendra i un parell d'ous Fer a bocins "
+image: "/images/receptes/image-1.png"
 dificultat: ""
 temps: ""
 racions: 4

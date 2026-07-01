@@ -3,7 +3,7 @@ title: "Cóc ràpid de Garrofa"
 date: 2021-12-06
 draft: false
 categories:
-  - receptes
+  - postres
 tags:
   - "cóc"
   - "garrofa"
