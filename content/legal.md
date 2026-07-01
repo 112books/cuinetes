@@ -8,7 +8,7 @@ draft: false
 
 **Joan Martínez i Serres**  
 Barcelona  
-Contacte: linuxbcn@gmail.com
+Contacte: joan@linuxbcn.com
 
 Aquest lloc web és de caràcter personal i sense ànim de lucre.
 
