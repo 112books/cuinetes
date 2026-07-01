@@ -118,7 +118,7 @@
     #login-err { min-height: 1.4em; color: var(--warn); font-size: 11px; margin-top: .75rem; }
 
     /* ── Topbar ─────────────────────────────────────────────── */
-    #dashboard { display: none; }
+    #dashboard { display: block; }
     .topbar {
       display: flex;
       align-items: center;
@@ -375,17 +375,6 @@
 </head>
 <body>
 
-<!-- ══ LOGIN ════════════════════════════════════════════════ -->
-<div id="login">
-  <form id="login-form" class="login-box" novalidate>
-    <div class="login-logo">about<em>.</em>pocallum<em>.</em>cat</div>
-    <div class="login-sub">Estadístiques</div>
-    <br>
-    <input id="pwd" type="password" placeholder="·····" autocomplete="current-password" autofocus>
-    <button type="submit" class="btn">Entrar →</button>
-    <div id="login-err"></div>
-  </form>
-</div>
 
 <!-- ══ TOKEN MODAL ═══════════════════════════════════════════ -->
 <div id="token-modal">
@@ -417,7 +406,6 @@
       <button type="button" class="btn-sm btn-live" id="btn-refresh">↻ En viu</button>
       <a href="/" class="btn-sm">← Web</a>
       <a href="https://cuinetes.goatcounter.com/" target="_blank" rel="noopener" class="btn-sm">GoatCounter ↗</a>
-      <button type="button" class="btn-sm" id="btn-logout">Sortir ×</button>
     </div>
   </div>
 
@@ -514,43 +502,15 @@
 </div>
 
 <script>
-/* ══ AUTH ═════════════════════════════════════════════════════ */
-async function sha256(str) {
-  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
-  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
-}
-
-document.getElementById('login-form').addEventListener('submit', async e => {
-  e.preventDefault();
-  const v = document.getElementById('pwd').value;
-  const h = await sha256(v);
-  if (h === CFG.pwHash) {
-    sessionStorage.setItem('gc_ok', '1');
-    showDashboard();
-  } else {
-    document.getElementById('login-err').textContent = 'contrasenya incorrecta';
-    document.getElementById('pwd').value = '';
-    document.getElementById('pwd').focus();
-  }
-});
 
 document.getElementById('btn-refresh').addEventListener('click', () => {
   loadData();
 });
 
-document.getElementById('btn-logout').addEventListener('click', () => {
-  sessionStorage.removeItem('gc_ok');
-  if (visitsChart) { visitsChart.destroy(); visitsChart = null; }
-  globalData = null;
-  document.getElementById('dashboard').style.display = 'none';
-  document.getElementById('login').style.display = 'flex';
-  document.getElementById('pwd').value = '';
-});
 
-if (sessionStorage.getItem('gc_ok')) showDashboard();
+showDashboard();
 
 function showDashboard() {
-  document.getElementById('login').style.display = 'none';
   document.getElementById('dashboard').style.display = 'block';
   loadData();
 }
