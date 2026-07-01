@@ -6,7 +6,7 @@
 
 <div class="receptes-grid-wrap">
   <div class="receptes-grid">
-    {{ range .Pages }}
+    {{ range .Paginator.Pages }}
       {{ partial "recepta-card.html" . }}
     {{ end }}
   </div>
