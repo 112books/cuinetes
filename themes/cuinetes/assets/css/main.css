@@ -176,7 +176,11 @@ main    { min-height: 60vh; }
 
 /* ── Receptes grid ─────────────────────────────────────────── */
 .receptes-recents,
-.receptes-grid-wrap { max-width: 100%; }
+.receptes-grid-wrap {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 3rem var(--gap);
+}
 
 .receptes-grid {
   display: grid;
