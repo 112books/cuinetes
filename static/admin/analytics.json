@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-29T18:55:06.287824Z",
+  "generated": "2026-07-01T14:14:15.955218Z",
   "period": {
-    "start": "2025-06-29",
-    "end": "2026-06-29"
+    "start": "2025-07-01",
+    "end": "2026-07-01"
   },
   "total": 0,
   "total_unique": 0,
@@ -19,9 +19,63 @@
     "wizard-s4": 0,
     "wizard-sent": 0
   },
-  "browsers": [],
-  "systems": [],
-  "sizes": [],
-  "locations": [],
+  "browsers": [
+    {
+      "name": "Chrome",
+      "id": "Chrome",
+      "count": 10
+    },
+    {
+      "name": "Safari",
+      "id": "Safari",
+      "count": 1
+    }
+  ],
+  "systems": [
+    {
+      "name": "macOS",
+      "id": "macOS",
+      "count": 6
+    },
+    {
+      "name": "Windows",
+      "id": "Windows",
+      "count": 3
+    },
+    {
+      "name": "Android",
+      "id": "Android",
+      "count": 1
+    },
+    {
+      "name": "iOS",
+      "id": "iOS",
+      "count": 1
+    }
+  ],
+  "sizes": [
+    {
+      "name": "desktop",
+      "id": "desktop",
+      "count": 10
+    },
+    {
+      "name": "phone",
+      "id": "phone",
+      "count": 1
+    }
+  ],
+  "locations": [
+    {
+      "name": "United States",
+      "id": "US",
+      "count": 6
+    },
+    {
+      "name": "Spain",
+      "id": "ES",
+      "count": 5
+    }
+  ],
   "refs": []
 }
