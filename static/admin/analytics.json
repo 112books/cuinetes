@@ -1,15 +1,56 @@
 {
-  "generated": "2026-07-01T23:05:00.715167Z",
+  "generated": "2026-07-02T02:33:32.494506Z",
   "period": {
-    "start": "2025-07-01",
-    "end": "2026-07-01"
+    "start": "2025-07-02",
+    "end": "2026-07-02"
   },
-  "total": 0,
+  "total": 11,
   "total_unique": 0,
-  "hits_by_day": [],
-  "hits": [],
+  "hits_by_day": [
+    {
+      "date": "2026-07-01",
+      "count": 11
+    }
+  ],
+  "hits": [
+    {
+      "path": "/",
+      "count": 5
+    },
+    {
+      "path": "/receptes",
+      "count": 1
+    },
+    {
+      "path": "/recomanacions",
+      "count": 1
+    },
+    {
+      "path": "/tags",
+      "count": 1
+    },
+    {
+      "path": "/legal",
+      "count": 1
+    },
+    {
+      "path": "/categories/primers",
+      "count": 1
+    },
+    {
+      "path": "/categories/recomanacions",
+      "count": 1
+    }
+  ],
   "by_lang": {},
-  "by_section": {},
+  "by_section": {
+    "inici": 5,
+    "receptes": 1,
+    "recomanacions": 1,
+    "tags": 1,
+    "legal": 1,
+    "categories": 2
+  },
   "noticies_top": [],
   "festivals_top": [],
   "wizard_funnel": {
@@ -77,5 +118,16 @@
       "count": 5
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "name": "Desconegut",
+      "id": "Desconegut",
+      "count": 5
+    },
+    {
+      "name": "www.yahoo.com",
+      "id": "www.yahoo.com",
+      "count": 1
+    }
+  ]
 }
