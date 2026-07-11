@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-10T23:52:14.832497Z",
+  "generated": "2026-07-11T01:54:41.668240Z",
   "period": {
-    "start": "2025-07-10",
-    "end": "2026-07-10"
+    "start": "2025-07-11",
+    "end": "2026-07-11"
   },
-  "total": 13,
+  "total": 14,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -14,12 +14,16 @@
     {
       "date": "2026-07-03",
       "count": 2
+    },
+    {
+      "date": "2026-07-11",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 7
+      "count": 8
     },
     {
       "path": "/receptes",
@@ -48,7 +52,7 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 7,
+    "inici": 8,
     "receptes": 1,
     "recomanacions": 1,
     "tags": 1,
@@ -126,7 +130,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 7
+      "count": 8
     },
     {
       "name": "www.yahoo.com",
