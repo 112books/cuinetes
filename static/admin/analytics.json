@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T22:40:18.421043Z",
+  "generated": "2026-07-18T23:44:15.816671Z",
   "period": {
     "start": "2025-07-18",
     "end": "2026-07-18"
@@ -88,28 +88,7 @@
       "count": 5
     }
   ],
-  "systems": [
-    {
-      "name": "macOS",
-      "id": "macOS",
-      "count": 7
-    },
-    {
-      "name": "iOS",
-      "id": "iOS",
-      "count": 4
-    },
-    {
-      "name": "Windows",
-      "id": "Windows",
-      "count": 3
-    },
-    {
-      "name": "Android",
-      "id": "Android",
-      "count": 2
-    }
-  ],
+  "systems": [],
   "sizes": [
     {
       "name": "desktop",
