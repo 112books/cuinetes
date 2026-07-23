@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-22T23:07:45.946567Z",
+  "generated": "2026-07-23T05:46:02.716052Z",
   "period": {
-    "start": "2025-07-22",
-    "end": "2026-07-22"
+    "start": "2025-07-23",
+    "end": "2026-07-23"
   },
-  "total": 19,
+  "total": 20,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -34,12 +34,20 @@
     {
       "date": "2026-07-21",
       "count": 2
+    },
+    {
+      "date": "2026-07-22",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
       "count": 10
+    },
+    {
+      "path": "/receptes/com-coure-be-larros-basmati",
+      "count": 1
     },
     {
       "path": "/receptes/101-canelons-de-peix",
@@ -81,7 +89,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 10,
-    "receptes": 4,
+    "receptes": 5,
     "recomanacions": 1,
     "tags": 1,
     "legal": 1,
@@ -173,7 +181,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 1
+      "count": 2
     },
     {
       "name": "ig",
