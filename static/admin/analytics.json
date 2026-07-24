@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T17:22:03.229392Z",
+  "generated": "2026-07-24T19:14:39.578288Z",
   "period": {
     "start": "2025-07-24",
     "end": "2026-07-24"
@@ -116,24 +116,29 @@
       "count": 5
     }
   ],
-  "systems": [],
-  "sizes": [
+  "systems": [
     {
-      "name": "desktop",
-      "id": "desktop",
-      "count": 14
+      "name": "macOS",
+      "id": "macOS",
+      "count": 7
     },
     {
-      "name": "phone",
-      "id": "phone",
+      "name": "Windows",
+      "id": "Windows",
       "count": 5
     },
     {
-      "name": "desktophd",
-      "id": "desktophd",
-      "count": 1
+      "name": "Android",
+      "id": "Android",
+      "count": 4
+    },
+    {
+      "name": "iOS",
+      "id": "iOS",
+      "count": 4
     }
   ],
+  "sizes": [],
   "locations": [
     {
       "name": "Spain",
@@ -151,5 +156,31 @@
       "count": 1
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "name": "Desconegut",
+      "id": "Desconegut",
+      "count": 9
+    },
+    {
+      "name": "Google",
+      "id": "Google",
+      "count": 2
+    },
+    {
+      "name": "ig",
+      "id": "ig",
+      "count": 1
+    },
+    {
+      "name": "www.facebook.com",
+      "id": "www.facebook.com",
+      "count": 1
+    },
+    {
+      "name": "www.yahoo.com",
+      "id": "www.yahoo.com",
+      "count": 1
+    }
+  ]
 }
