@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-24T23:04:33.377923Z",
+  "generated": "2026-07-25T01:56:09.056205Z",
   "period": {
-    "start": "2025-07-24",
-    "end": "2026-07-24"
+    "start": "2025-07-25",
+    "end": "2026-07-25"
   },
-  "total": 20,
+  "total": 21,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -38,12 +38,16 @@
     {
       "date": "2026-07-22",
       "count": 1
+    },
+    {
+      "date": "2026-07-24",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 10
+      "count": 11
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -88,7 +92,7 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 10,
+    "inici": 11,
     "receptes": 5,
     "recomanacions": 1,
     "tags": 1,
@@ -181,7 +185,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Google",
