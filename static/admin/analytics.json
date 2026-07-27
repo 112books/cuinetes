@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-26T23:53:34.681879Z",
+  "generated": "2026-07-27T02:08:17.884506Z",
   "period": {
-    "start": "2025-07-26",
-    "end": "2026-07-26"
+    "start": "2025-07-27",
+    "end": "2026-07-27"
   },
-  "total": 21,
+  "total": 22,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -42,12 +42,20 @@
     {
       "date": "2026-07-24",
       "count": 1
+    },
+    {
+      "date": "2026-07-26",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
       "count": 11
+    },
+    {
+      "path": "/receptes/pollastre-rostit-amb-patates",
+      "count": 2
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -59,10 +67,6 @@
     },
     {
       "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
-      "count": 1
-    },
-    {
-      "path": "/receptes/pollastre-rostit-amb-patates",
       "count": 1
     },
     {
@@ -93,7 +97,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 11,
-    "receptes": 5,
+    "receptes": 6,
     "recomanacions": 1,
     "tags": 1,
     "legal": 1,
@@ -190,7 +194,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 2
+      "count": 3
     },
     {
       "name": "ig",
