@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-28T23:53:22.728042Z",
+  "generated": "2026-07-29T01:51:56.498537Z",
   "period": {
-    "start": "2025-07-28",
-    "end": "2026-07-28"
+    "start": "2025-07-29",
+    "end": "2026-07-29"
   },
-  "total": 22,
+  "total": 23,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-07-26",
       "count": 1
+    },
+    {
+      "date": "2026-07-28",
+      "count": 1
     }
   ],
   "hits": [
@@ -56,6 +60,10 @@
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
       "count": 2
+    },
+    {
+      "path": "/receptes/pop-a-feira",
+      "count": 1
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -97,7 +105,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 11,
-    "receptes": 6,
+    "receptes": 7,
     "recomanacions": 1,
     "tags": 1,
     "legal": 1,
@@ -194,7 +202,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ig",
