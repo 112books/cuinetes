@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-31T23:03:41.781123Z",
+  "generated": "2026-08-01T02:03:20.587834Z",
   "period": {
-    "start": "2025-07-31",
-    "end": "2026-07-31"
+    "start": "2025-08-01",
+    "end": "2026-08-01"
   },
-  "total": 24,
+  "total": 25,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -54,6 +54,10 @@
     {
       "date": "2026-07-29",
       "count": 1
+    },
+    {
+      "date": "2026-08-01",
+      "count": 1
     }
   ],
   "hits": [
@@ -63,7 +67,7 @@
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
-      "count": 2
+      "count": 3
     },
     {
       "path": "/receptes/pop-a-feira",
@@ -109,7 +113,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 12,
-    "receptes": 7,
+    "receptes": 8,
     "recomanacions": 1,
     "tags": 1,
     "legal": 1,
@@ -133,7 +137,7 @@
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 6
+      "count": 7
     }
   ],
   "systems": [
@@ -148,14 +152,14 @@
       "count": 6
     },
     {
-      "name": "Windows",
-      "id": "Windows",
+      "name": "iOS",
+      "id": "iOS",
       "count": 6
     },
     {
-      "name": "iOS",
-      "id": "iOS",
-      "count": 5
+      "name": "Windows",
+      "id": "Windows",
+      "count": 6
     }
   ],
   "sizes": [
@@ -167,7 +171,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 8
+      "count": 9
     },
     {
       "name": "tablet",
@@ -184,7 +188,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 14
+      "count": 15
     },
     {
       "name": "United States",
@@ -206,7 +210,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 5
+      "count": 6
     },
     {
       "name": "ig",
