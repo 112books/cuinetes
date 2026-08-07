@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-06T15:11:25.934768Z",
+  "generated": "2026-08-07T02:12:56.429109Z",
   "period": {
-    "start": "2025-08-06",
-    "end": "2026-08-06"
+    "start": "2025-08-07",
+    "end": "2026-08-07"
   },
-  "total": 28,
+  "total": 29,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -66,6 +66,10 @@
     {
       "date": "2026-08-03",
       "count": 1
+    },
+    {
+      "date": "2026-08-06",
+      "count": 1
     }
   ],
   "hits": [
@@ -76,6 +80,10 @@
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
       "count": 3
+    },
+    {
+      "path": "/receptes/salsetes-picants-casolanes",
+      "count": 1
     },
     {
       "path": "/tags/daikon",
@@ -125,7 +133,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 14,
-    "receptes": 8,
+    "receptes": 9,
     "tags": 2,
     "recomanacions": 1,
     "legal": 1,
@@ -149,7 +157,7 @@
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 8
+      "count": 9
     }
   ],
   "systems": [
@@ -161,7 +169,7 @@
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 7
+      "count": 8
     },
     {
       "name": "macOS",
@@ -183,7 +191,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 11
+      "count": 12
     },
     {
       "name": "tablet",
@@ -200,7 +208,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 17
+      "count": 18
     },
     {
       "name": "United States",
@@ -222,7 +230,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 8
+      "count": 9
     },
     {
       "name": "ig",
