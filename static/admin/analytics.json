@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-08T23:20:07.394424Z",
+  "generated": "2026-08-09T03:25:45.200613Z",
   "period": {
-    "start": "2025-08-08",
-    "end": "2026-08-08"
+    "start": "2025-08-09",
+    "end": "2026-08-09"
   },
-  "total": 29,
+  "total": 35,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -70,16 +70,36 @@
     {
       "date": "2026-08-06",
       "count": 1
+    },
+    {
+      "date": "2026-08-08",
+      "count": 6
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 14
+      "count": 16
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
       "count": 3
+    },
+    {
+      "path": "/tags/cuina-japonesa",
+      "count": 1
+    },
+    {
+      "path": "/tags/cuina-casolana",
+      "count": 1
+    },
+    {
+      "path": "/receptes/curri-casola",
+      "count": 1
+    },
+    {
+      "path": "/categories/entrants",
+      "count": 1
     },
     {
       "path": "/receptes/salsetes-picants-casolanes",
@@ -132,12 +152,12 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 14,
-    "receptes": 9,
-    "tags": 2,
+    "inici": 16,
+    "receptes": 10,
+    "tags": 4,
+    "categories": 3,
     "recomanacions": 1,
-    "legal": 1,
-    "categories": 2
+    "legal": 1
   },
   "noticies_top": [],
   "festivals_top": [],
@@ -225,7 +245,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Google",
@@ -235,7 +255,7 @@
     {
       "name": "ig",
       "id": "ig",
-      "count": 1
+      "count": 2
     },
     {
       "name": "www.facebook.com",
