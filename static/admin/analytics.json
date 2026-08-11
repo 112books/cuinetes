@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-10T23:26:46.746229Z",
+  "generated": "2026-08-11T01:05:56.999079Z",
   "period": {
-    "start": "2025-08-10",
-    "end": "2026-08-10"
+    "start": "2025-08-11",
+    "end": "2026-08-11"
   },
-  "total": 35,
+  "total": 37,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -74,16 +74,24 @@
     {
       "date": "2026-08-08",
       "count": 6
+    },
+    {
+      "date": "2026-08-10",
+      "count": 2
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 16
+      "count": 17
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
       "count": 3
+    },
+    {
+      "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
+      "count": 2
     },
     {
       "path": "/tags/cuina-japonesa",
@@ -122,10 +130,6 @@
       "count": 1
     },
     {
-      "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
-      "count": 1
-    },
-    {
       "path": "/receptes",
       "count": 1
     },
@@ -152,8 +156,8 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 16,
-    "receptes": 10,
+    "inici": 17,
+    "receptes": 11,
     "tags": 4,
     "categories": 3,
     "recomanacions": 1,
@@ -250,7 +254,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 9
+      "count": 11
     },
     {
       "name": "ig",
