@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-11T23:31:42.331811Z",
+  "generated": "2026-08-12T01:13:28.068005Z",
   "period": {
-    "start": "2025-08-11",
-    "end": "2026-08-11"
+    "start": "2025-08-12",
+    "end": "2026-08-12"
   },
-  "total": 37,
+  "total": 40,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -78,16 +78,28 @@
     {
       "date": "2026-08-10",
       "count": 2
+    },
+    {
+      "date": "2026-08-11",
+      "count": 3
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 17
+      "count": 18
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
       "count": 3
+    },
+    {
+      "path": "/receptes/salsetes-picants-casolanes",
+      "count": 2
+    },
+    {
+      "path": "/receptes/pop-a-feira",
+      "count": 2
     },
     {
       "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
@@ -110,15 +122,7 @@
       "count": 1
     },
     {
-      "path": "/receptes/salsetes-picants-casolanes",
-      "count": 1
-    },
-    {
       "path": "/tags/daikon",
-      "count": 1
-    },
-    {
-      "path": "/receptes/pop-a-feira",
       "count": 1
     },
     {
@@ -156,8 +160,8 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 17,
-    "receptes": 11,
+    "inici": 18,
+    "receptes": 13,
     "tags": 4,
     "categories": 3,
     "recomanacions": 1,
@@ -247,19 +251,19 @@
   ],
   "refs": [
     {
+      "name": "Google",
+      "id": "Google",
+      "count": 13
+    },
+    {
       "name": "Desconegut",
       "id": "Desconegut",
       "count": 12
     },
     {
-      "name": "Google",
-      "id": "Google",
-      "count": 11
-    },
-    {
       "name": "ig",
       "id": "ig",
-      "count": 2
+      "count": 3
     },
     {
       "name": "www.facebook.com",
