@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-14T23:14:02.156416Z",
+  "generated": "2026-08-15T00:45:44.468859Z",
   "period": {
-    "start": "2025-08-14",
-    "end": "2026-08-14"
+    "start": "2025-08-15",
+    "end": "2026-08-15"
   },
-  "total": 40,
+  "total": 41,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -82,6 +82,10 @@
     {
       "date": "2026-08-11",
       "count": 3
+    },
+    {
+      "date": "2026-08-14",
+      "count": 1
     }
   ],
   "hits": [
@@ -104,6 +108,10 @@
     {
       "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
       "count": 2
+    },
+    {
+      "path": "/receptes/ramen-de-porc",
+      "count": 1
     },
     {
       "path": "/tags/cuina-japonesa",
@@ -161,7 +169,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 18,
-    "receptes": 13,
+    "receptes": 14,
     "tags": 4,
     "categories": 3,
     "recomanacions": 1,
@@ -253,7 +261,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Desconegut",
