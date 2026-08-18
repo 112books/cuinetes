@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-17T23:15:12.036633Z",
+  "generated": "2026-08-18T00:44:53.305655Z",
   "period": {
-    "start": "2025-08-17",
-    "end": "2026-08-17"
+    "start": "2025-08-18",
+    "end": "2026-08-18"
   },
-  "total": 42,
+  "total": 43,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -90,6 +90,10 @@
     {
       "date": "2026-08-15",
       "count": 1
+    },
+    {
+      "date": "2026-08-17",
+      "count": 1
     }
   ],
   "hits": [
@@ -112,6 +116,10 @@
     {
       "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
       "count": 2
+    },
+    {
+      "path": "/receptes/espagueti-amb-broquil-calamars-i",
+      "count": 1
     },
     {
       "path": "/receptes/sarsuela-per-10-12-persones",
@@ -177,7 +185,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 18,
-    "receptes": 15,
+    "receptes": 16,
     "tags": 4,
     "categories": 3,
     "recomanacions": 1,
@@ -269,7 +277,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Desconegut",
