@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-19T23:15:46.571862Z",
+  "generated": "2026-08-20T00:44:39.855267Z",
   "period": {
-    "start": "2025-08-19",
-    "end": "2026-08-19"
+    "start": "2025-08-20",
+    "end": "2026-08-20"
   },
-  "total": 43,
+  "total": 44,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -94,6 +94,10 @@
     {
       "date": "2026-08-17",
       "count": 1
+    },
+    {
+      "date": "2026-08-19",
+      "count": 1
     }
   ],
   "hits": [
@@ -116,6 +120,10 @@
     {
       "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
       "count": 2
+    },
+    {
+      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
+      "count": 1
     },
     {
       "path": "/receptes/espagueti-amb-broquil-calamars-i",
@@ -185,7 +193,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 18,
-    "receptes": 16,
+    "receptes": 17,
     "tags": 4,
     "categories": 3,
     "recomanacions": 1,
@@ -277,7 +285,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Desconegut",
