@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-26T21:30:51.025522Z",
+  "generated": "2026-08-27T02:27:56.727685Z",
   "period": {
-    "start": "2025-08-26",
-    "end": "2026-08-26"
+    "start": "2025-08-27",
+    "end": "2026-08-27"
   },
-  "total": 46,
+  "total": 48,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -106,12 +106,16 @@
     {
       "date": "2026-08-25",
       "count": 1
+    },
+    {
+      "date": "2026-08-26",
+      "count": 2
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 19
+      "count": 20
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
@@ -127,6 +131,10 @@
     },
     {
       "path": "/receptes/torrada-amb-guacamole-i-salmo-fumat",
+      "count": 2
+    },
+    {
+      "path": "/categories/recomanacions",
       "count": 2
     },
     {
@@ -196,18 +204,14 @@
     {
       "path": "/categories/primers",
       "count": 1
-    },
-    {
-      "path": "/categories/recomanacions",
-      "count": 1
     }
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 19,
+    "inici": 20,
     "receptes": 18,
+    "categories": 4,
     "tags": 4,
-    "categories": 3,
     "recomanacions": 1,
     "legal": 1
   },
@@ -297,7 +301,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Desconegut",
