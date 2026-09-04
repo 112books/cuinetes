@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-03T22:03:54.627574Z",
+  "generated": "2026-09-04T00:34:18.633305Z",
   "period": {
-    "start": "2025-09-03",
-    "end": "2026-09-03"
+    "start": "2025-09-04",
+    "end": "2026-09-04"
   },
-  "total": 51,
+  "total": 52,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -118,12 +118,20 @@
     {
       "date": "2026-09-02",
       "count": 1
+    },
+    {
+      "date": "2026-09-03",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
       "count": 22
+    },
+    {
+      "path": "/receptes/com-coure-be-larros-basmati",
+      "count": 3
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
@@ -135,10 +143,6 @@
     },
     {
       "path": "/receptes/pop-a-feira",
-      "count": 2
-    },
-    {
-      "path": "/receptes/com-coure-be-larros-basmati",
       "count": 2
     },
     {
@@ -217,7 +221,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 22,
-    "receptes": 19,
+    "receptes": 20,
     "categories": 4,
     "tags": 4,
     "recomanacions": 1,
@@ -320,6 +324,11 @@
       "name": "ig",
       "id": "ig",
       "count": 3
+    },
+    {
+      "name": "www.ecosia.org",
+      "id": "www.ecosia.org",
+      "count": 1
     },
     {
       "name": "www.facebook.com",
