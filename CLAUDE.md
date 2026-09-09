@@ -434,3 +434,14 @@ jobs:
 - Multilingüe
 - E-commerce / monetització
 - Backend d'administració
+
+
+---
+
+## Control horari
+
+Skill actiu: `gestor-hores` — registra automàticament el temps de treball per sessió.
+
+- Logs a `.taques/cuinetes.linuxbcn.com/YYYY-MM-DD.md` (creat automàticament)
+- Comandes: `/time-log [tasca] [hores]`, `/time-report [periode]`, `/time-config [hores] [tarifa]`
+- No modificar manualment els fitxers `.taques/` — són append-only
