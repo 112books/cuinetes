@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-11T23:43:51.355168Z",
+  "generated": "2026-09-12T02:23:49.458243Z",
   "period": {
-    "start": "2025-09-11",
-    "end": "2026-09-11"
+    "start": "2025-09-12",
+    "end": "2026-09-12"
   },
-  "total": 57,
+  "total": 59,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -134,6 +134,10 @@
     {
       "date": "2026-09-09",
       "count": 2
+    },
+    {
+      "date": "2026-09-11",
+      "count": 2
     }
   ],
   "hits": [
@@ -146,15 +150,19 @@
       "count": 4
     },
     {
+      "path": "/receptes/pollastre-rostit-amb-patates",
+      "count": 4
+    },
+    {
       "path": "/receptes/pop-a-feira",
       "count": 3
     },
     {
-      "path": "/receptes/pollastre-rostit-amb-patates",
-      "count": 3
+      "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
+      "count": 2
     },
     {
-      "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
+      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
       "count": 2
     },
     {
@@ -171,10 +179,6 @@
     },
     {
       "path": "/receptes/coc-rapid-de-garrofa",
-      "count": 1
-    },
-    {
-      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
       "count": 1
     },
     {
@@ -237,7 +241,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 23,
-    "receptes": 24,
+    "receptes": 26,
     "categories": 4,
     "tags": 4,
     "recomanacions": 1,
@@ -334,7 +338,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 23
+      "count": 25
     },
     {
       "name": "Desconegut",
