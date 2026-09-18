@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-17T23:50:29.556817Z",
+  "generated": "2026-09-18T02:28:37.623865Z",
   "period": {
-    "start": "2025-09-17",
-    "end": "2026-09-17"
+    "start": "2025-09-18",
+    "end": "2026-09-18"
   },
-  "total": 64,
+  "total": 68,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -150,6 +150,10 @@
     {
       "date": "2026-09-15",
       "count": 1
+    },
+    {
+      "date": "2026-09-17",
+      "count": 4
     }
   ],
   "hits": [
@@ -159,7 +163,7 @@
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
-      "count": 5
+      "count": 6
     },
     {
       "path": "/receptes/pop-a-feira",
@@ -170,15 +174,19 @@
       "count": 4
     },
     {
+      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
+      "count": 3
+    },
+    {
+      "path": "/receptes/curri-casola",
+      "count": 3
+    },
+    {
       "path": "/receptes/turbot-al-forn",
       "count": 2
     },
     {
       "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
-      "count": 2
-    },
-    {
-      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
       "count": 2
     },
     {
@@ -218,10 +226,6 @@
       "count": 1
     },
     {
-      "path": "/receptes/curri-casola",
-      "count": 1
-    },
-    {
       "path": "/categories/entrants",
       "count": 1
     },
@@ -257,7 +261,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 23,
-    "receptes": 31,
+    "receptes": 35,
     "categories": 4,
     "tags": 4,
     "recomanacions": 1,
@@ -354,12 +358,12 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 29
+      "count": 31
     },
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 16
+      "count": 18
     },
     {
       "name": "ig",
