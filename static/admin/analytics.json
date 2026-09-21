@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-20T22:49:35.800916Z",
+  "generated": "2026-09-21T00:42:06.900461Z",
   "period": {
-    "start": "2025-09-20",
-    "end": "2026-09-20"
+    "start": "2025-09-21",
+    "end": "2026-09-21"
   },
-  "total": 70,
+  "total": 72,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -158,6 +158,10 @@
     {
       "date": "2026-09-19",
       "count": 2
+    },
+    {
+      "date": "2026-09-20",
+      "count": 2
     }
   ],
   "hits": [
@@ -170,11 +174,11 @@
       "count": 6
     },
     {
-      "path": "/receptes/pop-a-feira",
-      "count": 4
+      "path": "/receptes/com-coure-be-larros-basmati",
+      "count": 5
     },
     {
-      "path": "/receptes/com-coure-be-larros-basmati",
+      "path": "/receptes/pop-a-feira",
       "count": 4
     },
     {
@@ -198,6 +202,10 @@
       "count": 2
     },
     {
+      "path": "/receptes/ramen-de-porc",
+      "count": 2
+    },
+    {
       "path": "/receptes/salsetes-picants-casolanes",
       "count": 2
     },
@@ -215,10 +223,6 @@
     },
     {
       "path": "/receptes/espagueti-amb-broquil-calamars-i",
-      "count": 1
-    },
-    {
-      "path": "/receptes/ramen-de-porc",
       "count": 1
     },
     {
@@ -265,7 +269,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 24,
-    "receptes": 36,
+    "receptes": 38,
     "categories": 4,
     "tags": 4,
     "recomanacions": 1,
@@ -362,7 +366,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 32
+      "count": 34
     },
     {
       "name": "Desconegut",
