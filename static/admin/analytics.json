@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-02T21:06:43.542134Z",
+  "generated": "2026-10-03T00:51:00.087633Z",
   "period": {
-    "start": "2025-10-02",
-    "end": "2026-10-02"
+    "start": "2025-10-03",
+    "end": "2026-10-03"
   },
-  "total": 79,
+  "total": 80,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -174,6 +174,10 @@
     {
       "date": "2026-09-29",
       "count": 4
+    },
+    {
+      "date": "2026-10-02",
+      "count": 1
     }
   ],
   "hits": [
@@ -194,12 +198,12 @@
       "count": 5
     },
     {
-      "path": "/receptes/curri-casola",
+      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
       "count": 4
     },
     {
-      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 3
+      "path": "/receptes/curri-casola",
+      "count": 4
     },
     {
       "path": "/receptes/sarsuela-per-10-12-persones",
@@ -293,7 +297,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 26,
-    "receptes": 42,
+    "receptes": 43,
     "categories": 4,
     "tags": 5,
     "recomanacions": 1,
@@ -395,7 +399,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 37
+      "count": 38
     },
     {
       "name": "Desconegut",
