@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-12T08:31:45.543645Z",
+  "generated": "2026-10-13T01:02:49.490025Z",
   "period": {
-    "start": "2025-10-12",
-    "end": "2026-10-12"
+    "start": "2025-10-13",
+    "end": "2026-10-13"
   },
-  "total": 85,
+  "total": 88,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -194,6 +194,10 @@
     {
       "date": "2026-10-10",
       "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "count": 3
     }
   ],
   "hits": [
@@ -202,16 +206,16 @@
       "count": 27
     },
     {
+      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
+      "count": 8
+    },
+    {
       "path": "/receptes/com-coure-be-larros-basmati",
       "count": 8
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
       "count": 6
-    },
-    {
-      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 5
     },
     {
       "path": "/receptes/pop-a-feira",
@@ -313,7 +317,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 27,
-    "receptes": 47,
+    "receptes": 50,
     "categories": 4,
     "tags": 5,
     "recomanacions": 1,
@@ -332,12 +336,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Firefox",
@@ -349,12 +353,12 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 29
+      "count": 30
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 27
+      "count": 28
     },
     {
       "name": "macOS",
@@ -376,7 +380,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 52
+      "count": 54
     },
     {
       "name": "desktop",
@@ -398,7 +402,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 70
+      "count": 72
     },
     {
       "name": "United States",
@@ -420,12 +424,12 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 41
+      "count": 43
     },
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 20
+      "count": 21
     },
     {
       "name": "ig",
