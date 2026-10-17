@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-16T23:10:13.818425Z",
+  "generated": "2026-10-17T07:22:13.814247Z",
   "period": {
-    "start": "2025-10-16",
-    "end": "2026-10-16"
+    "start": "2025-10-17",
+    "end": "2026-10-17"
   },
-  "total": 90,
+  "total": 91,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -206,6 +206,10 @@
     {
       "date": "2026-10-15",
       "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "count": 1
     }
   ],
   "hits": [
@@ -223,7 +227,7 @@
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
-      "count": 6
+      "count": 7
     },
     {
       "path": "/receptes/curri-casola",
@@ -325,7 +329,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 28,
-    "receptes": 51,
+    "receptes": 52,
     "categories": 4,
     "tags": 5,
     "recomanacions": 1,
@@ -432,7 +436,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 44
+      "count": 45
     },
     {
       "name": "Desconegut",
