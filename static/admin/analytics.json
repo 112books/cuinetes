@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-17T23:40:11.592876Z",
+  "generated": "2026-10-18T07:36:32.219461Z",
   "period": {
-    "start": "2025-10-17",
-    "end": "2026-10-17"
+    "start": "2025-10-18",
+    "end": "2026-10-18"
   },
-  "total": 91,
+  "total": 92,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -210,6 +210,10 @@
     {
       "date": "2026-10-16",
       "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "count": 1
     }
   ],
   "hits": [
@@ -219,7 +223,7 @@
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 8
+      "count": 9
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -329,7 +333,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 28,
-    "receptes": 52,
+    "receptes": 53,
     "categories": 4,
     "tags": 5,
     "recomanacions": 1,
@@ -436,7 +440,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 45
+      "count": 46
     },
     {
       "name": "Desconegut",
