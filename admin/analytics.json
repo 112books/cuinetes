@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-09T18:15:39.066038Z",
+  "generated": "2026-10-21T05:35:10.900476Z",
   "period": {
-    "start": "2025-09-09",
-    "end": "2026-09-09"
+    "start": "2025-10-21",
+    "end": "2026-10-21"
   },
-  "total": 55,
+  "total": 94,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -130,31 +130,143 @@
     {
       "date": "2026-09-06",
       "count": 2
+    },
+    {
+      "date": "2026-09-09",
+      "count": 2
+    },
+    {
+      "date": "2026-09-11",
+      "count": 2
+    },
+    {
+      "date": "2026-09-12",
+      "count": 3
+    },
+    {
+      "date": "2026-09-13",
+      "count": 1
+    },
+    {
+      "date": "2026-09-15",
+      "count": 1
+    },
+    {
+      "date": "2026-09-17",
+      "count": 4
+    },
+    {
+      "date": "2026-09-19",
+      "count": 2
+    },
+    {
+      "date": "2026-09-20",
+      "count": 2
+    },
+    {
+      "date": "2026-09-25",
+      "count": 2
+    },
+    {
+      "date": "2026-09-26",
+      "count": 1
+    },
+    {
+      "date": "2026-09-29",
+      "count": 4
+    },
+    {
+      "date": "2026-10-02",
+      "count": 1
+    },
+    {
+      "date": "2026-10-04",
+      "count": 1
+    },
+    {
+      "date": "2026-10-05",
+      "count": 1
+    },
+    {
+      "date": "2026-10-06",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
+      "count": 2
+    },
+    {
+      "date": "2026-10-12",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "count": 1
+    },
+    {
+      "date": "2026-10-17",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "count": 1
+    },
+    {
+      "date": "2026-10-19",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 22
+      "count": 29
+    },
+    {
+      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
+      "count": 9
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
-      "count": 4
+      "count": 8
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
+      "count": 8
+    },
+    {
+      "path": "/receptes/curri-casola",
+      "count": 5
+    },
+    {
+      "path": "/receptes/pop-a-feira",
+      "count": 5
+    },
+    {
+      "path": "/receptes/sarsuela-per-10-12-persones",
       "count": 3
+    },
+    {
+      "path": "/receptes/turbot-al-forn",
+      "count": 2
     },
     {
       "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
       "count": 2
     },
     {
-      "path": "/receptes/salsetes-picants-casolanes",
+      "path": "/receptes/ramen-de-porc",
       "count": 2
     },
     {
-      "path": "/receptes/pop-a-feira",
+      "path": "/receptes/salsetes-picants-casolanes",
       "count": 2
     },
     {
@@ -166,23 +278,23 @@
       "count": 2
     },
     {
+      "path": "/receptes/sopa-de-melo",
+      "count": 1
+    },
+    {
+      "path": "/receptes/sopa-de-ceva-porro-i-cardamomo-acompanyat-de-llom-embutxat",
+      "count": 1
+    },
+    {
+      "path": "/tags/cardamom",
+      "count": 1
+    },
+    {
       "path": "/receptes/coc-rapid-de-garrofa",
       "count": 1
     },
     {
-      "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 1
-    },
-    {
       "path": "/receptes/espagueti-amb-broquil-calamars-i",
-      "count": 1
-    },
-    {
-      "path": "/receptes/sarsuela-per-10-12-persones",
-      "count": 1
-    },
-    {
-      "path": "/receptes/ramen-de-porc",
       "count": 1
     },
     {
@@ -191,10 +303,6 @@
     },
     {
       "path": "/tags/cuina-casolana",
-      "count": 1
-    },
-    {
-      "path": "/receptes/curri-casola",
       "count": 1
     },
     {
@@ -232,10 +340,10 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 22,
-    "receptes": 23,
+    "inici": 29,
+    "receptes": 54,
     "categories": 4,
-    "tags": 4,
+    "tags": 5,
     "recomanacions": 1,
     "legal": 1
   },
@@ -252,12 +360,12 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 35
+      "count": 57
     },
     {
       "name": "Safari",
       "id": "Safari",
-      "count": 19
+      "count": 35
     },
     {
       "name": "Firefox",
@@ -269,60 +377,70 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 19
+      "count": 34
     },
     {
       "name": "iOS",
       "id": "iOS",
-      "count": 17
+      "count": 29
     },
     {
       "name": "macOS",
       "id": "macOS",
-      "count": 12
+      "count": 16
     },
     {
       "name": "Windows",
       "id": "Windows",
-      "count": 8
+      "count": 14
+    },
+    {
+      "name": "Linux",
+      "id": "Linux",
+      "count": 1
     }
   ],
   "sizes": [
     {
       "name": "phone",
       "id": "phone",
-      "count": 32
+      "count": 59
     },
     {
       "name": "desktop",
       "id": "desktop",
-      "count": 21
+      "count": 27
     },
     {
       "name": "tablet",
       "id": "tablet",
-      "count": 2
+      "count": 4
     },
     {
       "name": "desktophd",
       "id": "desktophd",
-      "count": 1
+      "count": 4
     }
   ],
   "locations": [
     {
       "name": "Spain",
       "id": "ES",
-      "count": 43
+      "count": 77
     },
     {
       "name": "United States",
       "id": "US",
-      "count": 12
+      "count": 15
     },
     {
       "name": "Ireland",
       "id": "IE",
+      "count": 1
+    },
+    {
+      "name": "Singapore",
+      "id": "SG",
       "count": 1
     }
   ],
@@ -330,12 +448,17 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 22
+      "count": 48
     },
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 15
+      "count": 21
+    },
+    {
+      "name": "www.facebook.com",
+      "id": "www.facebook.com",
+      "count": 4
     },
     {
       "name": "ig",
@@ -348,8 +471,8 @@
       "count": 2
     },
     {
-      "name": "www.facebook.com",
-      "id": "www.facebook.com",
+      "name": "Yahoo",
+      "id": "Yahoo",
       "count": 1
     },
     {
