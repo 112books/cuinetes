@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-22T21:01:26.098282Z",
+  "generated": "2026-10-23T00:16:59.078581Z",
   "period": {
-    "start": "2025-10-22",
-    "end": "2026-10-22"
+    "start": "2025-10-23",
+    "end": "2026-10-23"
   },
-  "total": 95,
+  "total": 99,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -226,6 +226,10 @@
     {
       "date": "2026-10-21",
       "count": 1
+    },
+    {
+      "date": "2026-10-22",
+      "count": 4
     }
   ],
   "hits": [
@@ -235,11 +239,11 @@
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 10
+      "count": 11
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
-      "count": 8
+      "count": 9
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
@@ -280,6 +284,14 @@
     {
       "path": "/categories/recomanacions",
       "count": 2
+    },
+    {
+      "path": "/receptes/carbassa-farcida",
+      "count": 1
+    },
+    {
+      "path": "/tags/basmati",
+      "count": 1
     },
     {
       "path": "/receptes/sopa-de-melo",
@@ -345,9 +357,9 @@
   "by_lang": {},
   "by_section": {
     "inici": 29,
-    "receptes": 55,
+    "receptes": 58,
     "categories": 4,
-    "tags": 5,
+    "tags": 6,
     "recomanacions": 1,
     "legal": 1
   },
@@ -384,7 +396,8 @@
       "2026-10-10": 1,
       "2026-10-12": 3,
       "2026-10-17": 1,
-      "2026-10-21": 1
+      "2026-10-21": 1,
+      "2026-10-22": 1
     },
     "/receptes/com-coure-be-larros-basmati": {
       "2026-07-22": 1,
@@ -394,7 +407,8 @@
       "2026-09-20": 1,
       "2026-10-04": 1,
       "2026-10-05": 1,
-      "2026-10-06": 1
+      "2026-10-06": 1,
+      "2026-10-22": 1
     },
     "/receptes/pollastre-rostit-amb-patates": {
       "2026-07-12": 1,
@@ -445,6 +459,12 @@
     "/categories/recomanacions": {
       "2026-07-01": 1,
       "2026-08-26": 1
+    },
+    "/receptes/carbassa-farcida": {
+      "2026-10-22": 1
+    },
+    "/tags/basmati": {
+      "2026-10-22": 1
     },
     "/receptes/sopa-de-melo": {
       "2026-09-29": 1
@@ -535,7 +555,8 @@
       "2026-10-16": 1,
       "2026-10-17": 1,
       "2026-10-18": 1,
-      "2026-10-21": 1
+      "2026-10-21": 1,
+      "2026-10-22": 3
     },
     "inici": {
       "2026-07-01": 5,
@@ -565,7 +586,8 @@
       "2026-07-01": 1,
       "2026-08-01": 1,
       "2026-08-08": 2,
-      "2026-09-29": 1
+      "2026-09-29": 1,
+      "2026-10-22": 1
     },
     "categories": {
       "2026-07-01": 2,
@@ -680,7 +702,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 49
+      "count": 52
     },
     {
       "name": "Desconegut",
