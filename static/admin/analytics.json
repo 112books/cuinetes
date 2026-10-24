@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-23T22:46:31.424164Z",
+  "generated": "2026-10-24T01:16:16.503130Z",
   "period": {
-    "start": "2025-10-23",
-    "end": "2026-10-23"
+    "start": "2025-10-24",
+    "end": "2026-10-24"
   },
-  "total": 99,
+  "total": 102,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -230,6 +230,14 @@
     {
       "date": "2026-10-22",
       "count": 4
+    },
+    {
+      "date": "2026-10-23",
+      "count": 2
+    },
+    {
+      "date": "2026-10-24",
+      "count": 1
     }
   ],
   "hits": [
@@ -259,7 +267,7 @@
     },
     {
       "path": "/receptes/sarsuela-per-10-12-persones",
-      "count": 3
+      "count": 4
     },
     {
       "path": "/receptes/turbot-al-forn",
@@ -284,6 +292,14 @@
     {
       "path": "/categories/recomanacions",
       "count": 2
+    },
+    {
+      "path": "/receptes/coliflor-amb-beixamel",
+      "count": 1
+    },
+    {
+      "path": "/receptes/humus-dalberginia-amb-magrana",
+      "count": 1
     },
     {
       "path": "/receptes/carbassa-farcida",
@@ -357,7 +373,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 29,
-    "receptes": 58,
+    "receptes": 61,
     "categories": 4,
     "tags": 6,
     "recomanacions": 1,
@@ -436,7 +452,8 @@
     "/receptes/sarsuela-per-10-12-persones": {
       "2026-08-15": 1,
       "2026-09-15": 1,
-      "2026-09-19": 1
+      "2026-09-19": 1,
+      "2026-10-24": 1
     },
     "/receptes/turbot-al-forn": {
       "2026-09-12": 2
@@ -459,6 +476,12 @@
     "/categories/recomanacions": {
       "2026-07-01": 1,
       "2026-08-26": 1
+    },
+    "/receptes/coliflor-amb-beixamel": {
+      "2026-10-23": 1
+    },
+    "/receptes/humus-dalberginia-amb-magrana": {
+      "2026-10-23": 1
     },
     "/receptes/carbassa-farcida": {
       "2026-10-22": 1
@@ -556,7 +579,9 @@
       "2026-10-17": 1,
       "2026-10-18": 1,
       "2026-10-21": 1,
-      "2026-10-22": 3
+      "2026-10-22": 3,
+      "2026-10-23": 2,
+      "2026-10-24": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -702,12 +727,12 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 52
+      "count": 54
     },
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 21
+      "count": 22
     },
     {
       "name": "www.facebook.com",
