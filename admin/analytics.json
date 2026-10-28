@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-27T19:08:13.172913Z",
+  "generated": "2026-10-28T03:18:47.461794Z",
   "period": {
-    "start": "2025-10-27",
-    "end": "2026-10-27"
+    "start": "2025-10-28",
+    "end": "2026-10-28"
   },
-  "total": 108,
+  "total": 109,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -246,6 +246,10 @@
     {
       "date": "2026-10-26",
       "count": 2
+    },
+    {
+      "date": "2026-10-27",
+      "count": 1
     }
   ],
   "hits": [
@@ -255,7 +259,7 @@
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 12
+      "count": 13
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -381,7 +385,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 31,
-    "receptes": 65,
+    "receptes": 66,
     "categories": 4,
     "tags": 6,
     "recomanacions": 1,
@@ -424,7 +428,8 @@
       "2026-10-17": 1,
       "2026-10-21": 1,
       "2026-10-22": 1,
-      "2026-10-24": 1
+      "2026-10-24": 1,
+      "2026-10-27": 1
     },
     "/receptes/com-coure-be-larros-basmati": {
       "2026-07-22": 1,
@@ -595,7 +600,8 @@
       "2026-10-22": 3,
       "2026-10-23": 3,
       "2026-10-24": 3,
-      "2026-10-26": 1
+      "2026-10-26": 1,
+      "2026-10-27": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -748,7 +754,7 @@
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 22
+      "count": 23
     },
     {
       "name": "ig",
