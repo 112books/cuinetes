@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-31T22:09:54.202348Z",
+  "generated": "2026-11-01T01:43:28.427662Z",
   "period": {
-    "start": "2025-10-31",
-    "end": "2026-10-31"
+    "start": "2025-11-01",
+    "end": "2026-11-01"
   },
-  "total": 111,
+  "total": 114,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -254,16 +254,24 @@
     {
       "date": "2026-10-28",
       "count": 2
+    },
+    {
+      "date": "2026-10-31",
+      "count": 2
+    },
+    {
+      "date": "2026-11-01",
+      "count": 1
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 32
+      "count": 33
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 13
+      "count": 15
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -388,8 +396,8 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 32,
-    "receptes": 67,
+    "inici": 33,
+    "receptes": 69,
     "categories": 4,
     "tags": 6,
     "recomanacions": 1,
@@ -421,7 +429,8 @@
       "2026-10-19": 1,
       "2026-10-25": 1,
       "2026-10-26": 1,
-      "2026-10-28": 1
+      "2026-10-28": 1,
+      "2026-10-31": 1
     },
     "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui": {
       "2026-08-19": 1,
@@ -434,7 +443,9 @@
       "2026-10-21": 1,
       "2026-10-22": 1,
       "2026-10-24": 1,
-      "2026-10-27": 1
+      "2026-10-27": 1,
+      "2026-10-31": 1,
+      "2026-11-01": 1
     },
     "/receptes/com-coure-be-larros-basmati": {
       "2026-07-22": 1,
@@ -608,7 +619,9 @@
       "2026-10-24": 3,
       "2026-10-26": 1,
       "2026-10-27": 1,
-      "2026-10-28": 1
+      "2026-10-28": 1,
+      "2026-10-31": 1,
+      "2026-11-01": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -635,7 +648,8 @@
       "2026-10-19": 1,
       "2026-10-25": 1,
       "2026-10-26": 1,
-      "2026-10-28": 1
+      "2026-10-28": 1,
+      "2026-10-31": 1
     },
     "tags": {
       "2026-07-01": 1,
@@ -669,7 +683,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 72
+      "count": 73
     },
     {
       "name": "Safari",
@@ -686,7 +700,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 44
+      "count": 45
     },
     {
       "name": "iOS",
@@ -713,7 +727,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 72
+      "count": 73
     },
     {
       "name": "desktop",
@@ -735,7 +749,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 95
+      "count": 96
     },
     {
       "name": "United States",
@@ -757,7 +771,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 60
+      "count": 62
     },
     {
       "name": "Desconegut",
@@ -765,13 +779,13 @@
       "count": 23
     },
     {
-      "name": "ig",
-      "id": "ig",
-      "count": 4
-    },
-    {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
+      "count": 5
+    },
+    {
+      "name": "ig",
+      "id": "ig",
       "count": 4
     },
     {
