@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-06T22:35:25.523671Z",
+  "generated": "2026-11-07T02:29:03.263275Z",
   "period": {
-    "start": "2025-11-06",
-    "end": "2026-11-06"
+    "start": "2025-11-07",
+    "end": "2026-11-07"
   },
-  "total": 123,
+  "total": 125,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -274,12 +274,16 @@
     {
       "date": "2026-11-05",
       "count": 2
+    },
+    {
+      "date": "2026-11-06",
+      "count": 2
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 33
+      "count": 34
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
@@ -315,6 +319,10 @@
     },
     {
       "path": "/receptes/ramen-de-porc",
+      "count": 2
+    },
+    {
+      "path": "/categories/entrants",
       "count": 2
     },
     {
@@ -378,10 +386,6 @@
       "count": 1
     },
     {
-      "path": "/categories/entrants",
-      "count": 1
-    },
-    {
       "path": "/tags/daikon",
       "count": 1
     },
@@ -412,9 +416,9 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 33,
+    "inici": 34,
     "receptes": 78,
-    "categories": 4,
+    "categories": 5,
     "tags": 6,
     "recomanacions": 1,
     "legal": 1
@@ -446,7 +450,8 @@
       "2026-10-25": 1,
       "2026-10-26": 1,
       "2026-10-28": 1,
-      "2026-10-31": 1
+      "2026-10-31": 1,
+      "2026-11-06": 1
     },
     "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui": {
       "2026-08-19": 1,
@@ -520,6 +525,10 @@
       "2026-08-14": 1,
       "2026-09-20": 1
     },
+    "/categories/entrants": {
+      "2026-08-08": 1,
+      "2026-11-06": 1
+    },
     "/receptes/salsetes-picants-casolanes": {
       "2026-08-06": 1,
       "2026-08-11": 1
@@ -566,9 +575,6 @@
       "2026-08-08": 1
     },
     "/tags/cuina-casolana": {
-      "2026-08-08": 1
-    },
-    "/categories/entrants": {
       "2026-08-08": 1
     },
     "/tags/daikon": {
@@ -675,7 +681,8 @@
       "2026-10-25": 1,
       "2026-10-26": 1,
       "2026-10-28": 1,
-      "2026-10-31": 1
+      "2026-10-31": 1,
+      "2026-11-06": 1
     },
     "tags": {
       "2026-07-01": 1,
@@ -687,7 +694,8 @@
     "categories": {
       "2026-07-01": 2,
       "2026-08-08": 1,
-      "2026-08-26": 1
+      "2026-08-26": 1,
+      "2026-11-06": 1
     },
     "recomanacions": {
       "2026-07-01": 1
@@ -705,7 +713,23 @@
     "wizard-s4": 0,
     "wizard-sent": 0
   },
-  "browsers": [],
+  "browsers": [
+    {
+      "name": "Chrome",
+      "id": "Chrome",
+      "count": 81
+    },
+    {
+      "name": "Safari",
+      "id": "Safari",
+      "count": 42
+    },
+    {
+      "name": "Firefox",
+      "id": "Firefox",
+      "count": 2
+    }
+  ],
   "systems": [
     {
       "name": "Android",
@@ -781,7 +805,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 71
+      "count": 72
     },
     {
       "name": "Desconegut",
