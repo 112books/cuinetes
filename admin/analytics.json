@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-10T22:41:10.923599Z",
+  "generated": "2026-11-11T10:05:45.832486Z",
   "period": {
-    "start": "2025-11-10",
-    "end": "2026-11-10"
+    "start": "2025-11-11",
+    "end": "2026-11-11"
   },
-  "total": 132,
+  "total": 133,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -286,6 +286,10 @@
     {
       "date": "2026-11-08",
       "count": 1
+    },
+    {
+      "date": "2026-11-10",
+      "count": 1
     }
   ],
   "hits": [
@@ -295,7 +299,7 @@
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 23
+      "count": 24
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
@@ -429,7 +433,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 34,
-    "receptes": 85,
+    "receptes": 86,
     "categories": 5,
     "tags": 6,
     "recomanacions": 1,
@@ -480,7 +484,8 @@
       "2026-10-31": 1,
       "2026-11-01": 4,
       "2026-11-05": 2,
-      "2026-11-07": 3
+      "2026-11-07": 3,
+      "2026-11-10": 1
     },
     "/receptes/pollastre-rostit-amb-patates": {
       "2026-07-12": 1,
@@ -673,7 +678,8 @@
       "2026-11-04": 1,
       "2026-11-05": 2,
       "2026-11-07": 6,
-      "2026-11-08": 1
+      "2026-11-08": 1,
+      "2026-11-10": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -825,7 +831,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 78
+      "count": 79
     },
     {
       "name": "Desconegut",
