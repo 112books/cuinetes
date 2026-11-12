@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-11T18:14:53.261018Z",
+  "generated": "2026-11-12T01:12:19.039533Z",
   "period": {
-    "start": "2025-11-11",
-    "end": "2026-11-11"
+    "start": "2025-11-12",
+    "end": "2026-11-12"
   },
-  "total": 133,
+  "total": 136,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -290,6 +290,10 @@
     {
       "date": "2026-11-10",
       "count": 1
+    },
+    {
+      "date": "2026-11-11",
+      "count": 3
     }
   ],
   "hits": [
@@ -314,12 +318,12 @@
       "count": 9
     },
     {
-      "path": "/receptes/curri-casola",
-      "count": 5
+      "path": "/receptes/sarsuela-per-10-12-persones",
+      "count": 6
     },
     {
-      "path": "/receptes/sarsuela-per-10-12-persones",
-      "count": 4
+      "path": "/receptes/curri-casola",
+      "count": 6
     },
     {
       "path": "/receptes/coliflor-amb-beixamel",
@@ -433,7 +437,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 34,
-    "receptes": 86,
+    "receptes": 89,
     "categories": 5,
     "tags": 6,
     "recomanacions": 1,
@@ -520,17 +524,19 @@
       "2026-10-06": 1,
       "2026-10-22": 1
     },
-    "/receptes/curri-casola": {
-      "2026-08-08": 1,
-      "2026-09-17": 2,
-      "2026-09-29": 1,
-      "2026-10-14": 1
-    },
     "/receptes/sarsuela-per-10-12-persones": {
       "2026-08-15": 1,
       "2026-09-15": 1,
       "2026-09-19": 1,
-      "2026-10-23": 1
+      "2026-10-23": 1,
+      "2026-11-11": 2
+    },
+    "/receptes/curri-casola": {
+      "2026-08-08": 1,
+      "2026-09-17": 2,
+      "2026-09-29": 1,
+      "2026-10-14": 1,
+      "2026-11-11": 1
     },
     "/receptes/coliflor-amb-beixamel": {
       "2026-10-23": 1,
@@ -679,7 +685,8 @@
       "2026-11-05": 2,
       "2026-11-07": 6,
       "2026-11-08": 1,
-      "2026-11-10": 1
+      "2026-11-10": 1,
+      "2026-11-11": 3
     },
     "inici": {
       "2026-07-01": 5,
@@ -743,7 +750,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 87
+      "count": 89
     },
     {
       "name": "Safari",
@@ -760,7 +767,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 56
+      "count": 58
     },
     {
       "name": "iOS",
@@ -787,7 +794,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 85
+      "count": 87
     },
     {
       "name": "desktop",
@@ -809,7 +816,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 116
+      "count": 118
     },
     {
       "name": "United States",
@@ -831,12 +838,12 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 79
+      "count": 81
     },
     {
       "name": "Desconegut",
       "id": "Desconegut",
-      "count": 23
+      "count": 24
     },
     {
       "name": "www.facebook.com",
