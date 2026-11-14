@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T20:11:57.794464Z",
+  "generated": "2026-11-14T01:08:59.606391Z",
   "period": {
-    "start": "2025-11-13",
-    "end": "2026-11-13"
+    "start": "2025-11-14",
+    "end": "2026-11-14"
   },
-  "total": 138,
+  "total": 139,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -298,6 +298,10 @@
     {
       "date": "2026-11-12",
       "count": 2
+    },
+    {
+      "date": "2026-11-13",
+      "count": 1
     }
   ],
   "hits": [
@@ -338,6 +342,10 @@
       "count": 3
     },
     {
+      "path": "/receptes/101-canelons-de-peix",
+      "count": 3
+    },
+    {
       "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
       "count": 2
     },
@@ -351,10 +359,6 @@
     },
     {
       "path": "/receptes/salsetes-picants-casolanes",
-      "count": 2
-    },
-    {
-      "path": "/receptes/101-canelons-de-peix",
       "count": 2
     },
     {
@@ -441,7 +445,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 34,
-    "receptes": 91,
+    "receptes": 92,
     "categories": 5,
     "tags": 6,
     "recomanacions": 1,
@@ -552,6 +556,11 @@
       "2026-09-12": 2,
       "2026-10-28": 1
     },
+    "/receptes/101-canelons-de-peix": {
+      "2026-07-21": 1,
+      "2026-11-08": 1,
+      "2026-11-13": 1
+    },
     "/receptes/espaguetis-a-la-llimona-spaghetti-limonati": {
       "2026-09-06": 2
     },
@@ -566,10 +575,6 @@
     "/receptes/salsetes-picants-casolanes": {
       "2026-08-06": 1,
       "2026-08-11": 1
-    },
-    "/receptes/101-canelons-de-peix": {
-      "2026-07-21": 1,
-      "2026-11-08": 1
     },
     "/receptes/torrada-amb-guacamole-i-salmo-fumat": {
       "2026-07-18": 1,
@@ -693,7 +698,8 @@
       "2026-11-08": 1,
       "2026-11-10": 1,
       "2026-11-11": 3,
-      "2026-11-12": 2
+      "2026-11-12": 2,
+      "2026-11-13": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -845,7 +851,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 82
+      "count": 83
     },
     {
       "name": "Desconegut",
