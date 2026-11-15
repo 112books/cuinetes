@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-14T20:15:47.578199Z",
+  "generated": "2026-11-15T00:33:59.002364Z",
   "period": {
-    "start": "2025-11-14",
-    "end": "2026-11-14"
+    "start": "2025-11-15",
+    "end": "2026-11-15"
   },
-  "total": 139,
+  "total": 145,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -302,16 +302,20 @@
     {
       "date": "2026-11-13",
       "count": 1
+    },
+    {
+      "date": "2026-11-14",
+      "count": 6
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 34
+      "count": 35
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 25
+      "count": 28
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
@@ -366,8 +370,16 @@
       "count": 2
     },
     {
+      "path": "/receptes",
+      "count": 2
+    },
+    {
       "path": "/categories/recomanacions",
       "count": 2
+    },
+    {
+      "path": "/receptes/pop-la-mallorquina",
+      "count": 1
     },
     {
       "path": "/receptes/escabetx-de-sardina",
@@ -422,10 +434,6 @@
       "count": 1
     },
     {
-      "path": "/receptes",
-      "count": 1
-    },
-    {
       "path": "/recomanacions",
       "count": 1
     },
@@ -444,8 +452,8 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 34,
-    "receptes": 92,
+    "inici": 35,
+    "receptes": 97,
     "categories": 5,
     "tags": 6,
     "recomanacions": 1,
@@ -479,7 +487,8 @@
       "2026-10-26": 1,
       "2026-10-28": 1,
       "2026-10-31": 1,
-      "2026-11-06": 1
+      "2026-11-06": 1,
+      "2026-11-14": 1
     },
     "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui": {
       "2026-08-19": 1,
@@ -498,7 +507,8 @@
       "2026-11-05": 2,
       "2026-11-07": 3,
       "2026-11-10": 1,
-      "2026-11-12": 1
+      "2026-11-12": 1,
+      "2026-11-14": 3
     },
     "/receptes/pollastre-rostit-amb-patates": {
       "2026-07-12": 1,
@@ -580,9 +590,16 @@
       "2026-07-18": 1,
       "2026-08-10": 1
     },
+    "/receptes": {
+      "2026-07-01": 1,
+      "2026-11-14": 1
+    },
     "/categories/recomanacions": {
       "2026-07-01": 1,
       "2026-08-26": 1
+    },
+    "/receptes/pop-la-mallorquina": {
+      "2026-11-14": 1
     },
     "/receptes/escabetx-de-sardina": {
       "2026-11-07": 1
@@ -622,9 +639,6 @@
     },
     "/tags/daikon": {
       "2026-08-01": 1
-    },
-    "/receptes": {
-      "2026-07-01": 1
     },
     "/recomanacions": {
       "2026-07-01": 1
@@ -699,7 +713,8 @@
       "2026-11-10": 1,
       "2026-11-11": 3,
       "2026-11-12": 2,
-      "2026-11-13": 1
+      "2026-11-13": 1,
+      "2026-11-14": 5
     },
     "inici": {
       "2026-07-01": 5,
@@ -728,7 +743,8 @@
       "2026-10-26": 1,
       "2026-10-28": 1,
       "2026-10-31": 1,
-      "2026-11-06": 1
+      "2026-11-06": 1,
+      "2026-11-14": 1
     },
     "tags": {
       "2026-07-01": 1,
@@ -851,7 +867,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 83
+      "count": 88
     },
     {
       "name": "Desconegut",
