@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-15T15:08:54.585884Z",
+  "generated": "2026-11-16T00:33:50.529091Z",
   "period": {
-    "start": "2025-11-15",
-    "end": "2026-11-15"
+    "start": "2025-11-16",
+    "end": "2026-11-16"
   },
-  "total": 145,
+  "total": 149,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -306,16 +306,24 @@
     {
       "date": "2026-11-14",
       "count": 6
+    },
+    {
+      "date": "2026-11-15",
+      "count": 4
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 35
+      "count": 36
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
       "count": 28
+    },
+    {
+      "path": "/receptes/com-coure-be-larros-basmati",
+      "count": 10
     },
     {
       "path": "/receptes/pollastre-rostit-amb-patates",
@@ -326,16 +334,12 @@
       "count": 9
     },
     {
-      "path": "/receptes/com-coure-be-larros-basmati",
-      "count": 9
-    },
-    {
       "path": "/receptes/sarsuela-per-10-12-persones",
       "count": 7
     },
     {
       "path": "/receptes/curri-casola",
-      "count": 6
+      "count": 7
     },
     {
       "path": "/receptes/coliflor-amb-beixamel",
@@ -376,6 +380,10 @@
     {
       "path": "/categories/recomanacions",
       "count": 2
+    },
+    {
+      "path": "/categories/segons",
+      "count": 1
     },
     {
       "path": "/receptes/pop-la-mallorquina",
@@ -452,9 +460,9 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 35,
-    "receptes": 97,
-    "categories": 5,
+    "inici": 36,
+    "receptes": 99,
+    "categories": 6,
     "tags": 6,
     "recomanacions": 1,
     "legal": 1
@@ -488,7 +496,8 @@
       "2026-10-28": 1,
       "2026-10-31": 1,
       "2026-11-06": 1,
-      "2026-11-14": 1
+      "2026-11-14": 1,
+      "2026-11-15": 1
     },
     "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui": {
       "2026-08-19": 1,
@@ -509,6 +518,18 @@
       "2026-11-10": 1,
       "2026-11-12": 1,
       "2026-11-14": 3
+    },
+    "/receptes/com-coure-be-larros-basmati": {
+      "2026-07-22": 1,
+      "2026-09-02": 1,
+      "2026-09-03": 1,
+      "2026-09-04": 1,
+      "2026-09-20": 1,
+      "2026-10-04": 1,
+      "2026-10-05": 1,
+      "2026-10-06": 1,
+      "2026-10-22": 1,
+      "2026-11-15": 1
     },
     "/receptes/pollastre-rostit-amb-patates": {
       "2026-07-12": 1,
@@ -532,17 +553,6 @@
       "2026-11-01": 1,
       "2026-11-04": 1
     },
-    "/receptes/com-coure-be-larros-basmati": {
-      "2026-07-22": 1,
-      "2026-09-02": 1,
-      "2026-09-03": 1,
-      "2026-09-04": 1,
-      "2026-09-20": 1,
-      "2026-10-04": 1,
-      "2026-10-05": 1,
-      "2026-10-06": 1,
-      "2026-10-22": 1
-    },
     "/receptes/sarsuela-per-10-12-persones": {
       "2026-08-15": 1,
       "2026-09-15": 1,
@@ -556,7 +566,8 @@
       "2026-09-17": 2,
       "2026-09-29": 1,
       "2026-10-14": 1,
-      "2026-11-11": 1
+      "2026-11-11": 1,
+      "2026-11-15": 1
     },
     "/receptes/coliflor-amb-beixamel": {
       "2026-10-23": 1,
@@ -597,6 +608,9 @@
     "/categories/recomanacions": {
       "2026-07-01": 1,
       "2026-08-26": 1
+    },
+    "/categories/segons": {
+      "2026-11-15": 1
     },
     "/receptes/pop-la-mallorquina": {
       "2026-11-14": 1
@@ -714,7 +728,8 @@
       "2026-11-11": 3,
       "2026-11-12": 2,
       "2026-11-13": 1,
-      "2026-11-14": 5
+      "2026-11-14": 5,
+      "2026-11-15": 2
     },
     "inici": {
       "2026-07-01": 5,
@@ -744,7 +759,15 @@
       "2026-10-28": 1,
       "2026-10-31": 1,
       "2026-11-06": 1,
-      "2026-11-14": 1
+      "2026-11-14": 1,
+      "2026-11-15": 1
+    },
+    "categories": {
+      "2026-07-01": 2,
+      "2026-08-08": 1,
+      "2026-08-26": 1,
+      "2026-11-06": 1,
+      "2026-11-15": 1
     },
     "tags": {
       "2026-07-01": 1,
@@ -752,12 +775,6 @@
       "2026-08-08": 2,
       "2026-09-29": 1,
       "2026-10-22": 1
-    },
-    "categories": {
-      "2026-07-01": 2,
-      "2026-08-08": 1,
-      "2026-08-26": 1,
-      "2026-11-06": 1
     },
     "recomanacions": {
       "2026-07-01": 1
@@ -779,7 +796,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 99
+      "count": 101
     },
     {
       "name": "Safari",
@@ -796,7 +813,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 65
+      "count": 67
     },
     {
       "name": "iOS",
@@ -823,7 +840,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 94
+      "count": 96
     },
     {
       "name": "desktop",
@@ -845,7 +862,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 129
+      "count": 131
     },
     {
       "name": "United States",
@@ -867,7 +884,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 88
+      "count": 91
     },
     {
       "name": "Desconegut",
