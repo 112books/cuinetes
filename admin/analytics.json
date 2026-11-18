@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-17T18:54:39.303456Z",
+  "generated": "2026-11-18T09:31:41.208875Z",
   "period": {
-    "start": "2025-11-17",
-    "end": "2026-11-17"
+    "start": "2025-11-18",
+    "end": "2026-11-18"
   },
-  "total": 149,
+  "total": 152,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -310,12 +310,16 @@
     {
       "date": "2026-11-15",
       "count": 4
+    },
+    {
+      "date": "2026-11-17",
+      "count": 3
     }
   ],
   "hits": [
     {
       "path": "/",
-      "count": 36
+      "count": 37
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
@@ -352,6 +356,14 @@
     {
       "path": "/receptes/101-canelons-de-peix",
       "count": 3
+    },
+    {
+      "path": "/receptes/sopa-de-melo",
+      "count": 2
+    },
+    {
+      "path": "/tags/cardamom",
+      "count": 2
     },
     {
       "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
@@ -410,15 +422,7 @@
       "count": 1
     },
     {
-      "path": "/receptes/sopa-de-melo",
-      "count": 1
-    },
-    {
       "path": "/receptes/sopa-de-ceva-porro-i-cardamomo-acompanyat-de-llom-embutxat",
-      "count": 1
-    },
-    {
-      "path": "/tags/cardamom",
       "count": 1
     },
     {
@@ -460,10 +464,10 @@
   ],
   "by_lang": {},
   "by_section": {
-    "inici": 36,
-    "receptes": 99,
+    "inici": 37,
+    "receptes": 100,
+    "tags": 7,
     "categories": 6,
-    "tags": 6,
     "recomanacions": 1,
     "legal": 1
   },
@@ -497,7 +501,8 @@
       "2026-10-31": 1,
       "2026-11-06": 1,
       "2026-11-14": 1,
-      "2026-11-15": 1
+      "2026-11-15": 1,
+      "2026-11-17": 1
     },
     "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui": {
       "2026-08-19": 1,
@@ -582,6 +587,14 @@
       "2026-11-08": 1,
       "2026-11-13": 1
     },
+    "/receptes/sopa-de-melo": {
+      "2026-09-29": 1,
+      "2026-11-17": 1
+    },
+    "/tags/cardamom": {
+      "2026-09-29": 1,
+      "2026-11-17": 1
+    },
     "/receptes/espaguetis-a-la-llimona-spaghetti-limonati": {
       "2026-09-06": 2
     },
@@ -630,13 +643,7 @@
     "/tags/basmati": {
       "2026-10-22": 1
     },
-    "/receptes/sopa-de-melo": {
-      "2026-09-29": 1
-    },
     "/receptes/sopa-de-ceva-porro-i-cardamomo-acompanyat-de-llom-embutxat": {
-      "2026-09-29": 1
-    },
-    "/tags/cardamom": {
       "2026-09-29": 1
     },
     "/receptes/coc-rapid-de-garrofa": {
@@ -729,7 +736,8 @@
       "2026-11-12": 2,
       "2026-11-13": 1,
       "2026-11-14": 5,
-      "2026-11-15": 2
+      "2026-11-15": 2,
+      "2026-11-17": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -760,7 +768,16 @@
       "2026-10-31": 1,
       "2026-11-06": 1,
       "2026-11-14": 1,
-      "2026-11-15": 1
+      "2026-11-15": 1,
+      "2026-11-17": 1
+    },
+    "tags": {
+      "2026-07-01": 1,
+      "2026-08-01": 1,
+      "2026-08-08": 2,
+      "2026-09-29": 1,
+      "2026-10-22": 1,
+      "2026-11-17": 1
     },
     "categories": {
       "2026-07-01": 2,
@@ -768,13 +785,6 @@
       "2026-08-26": 1,
       "2026-11-06": 1,
       "2026-11-15": 1
-    },
-    "tags": {
-      "2026-07-01": 1,
-      "2026-08-01": 1,
-      "2026-08-08": 2,
-      "2026-09-29": 1,
-      "2026-10-22": 1
     },
     "recomanacions": {
       "2026-07-01": 1
@@ -884,7 +894,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 91
+      "count": 92
     },
     {
       "name": "Desconegut",
@@ -894,7 +904,7 @@
     {
       "name": "www.facebook.com",
       "id": "www.facebook.com",
-      "count": 5
+      "count": 6
     },
     {
       "name": "ig",
