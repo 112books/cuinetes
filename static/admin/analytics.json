@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-20T22:52:47.520711Z",
+  "generated": "2026-11-21T03:39:39.538133Z",
   "period": {
-    "start": "2025-11-20",
-    "end": "2026-11-20"
+    "start": "2025-11-21",
+    "end": "2026-11-21"
   },
-  "total": 156,
+  "total": 159,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -322,6 +322,10 @@
     {
       "date": "2026-11-19",
       "count": 3
+    },
+    {
+      "date": "2026-11-20",
+      "count": 3
     }
   ],
   "hits": [
@@ -331,7 +335,7 @@
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 29
+      "count": 31
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -354,11 +358,11 @@
       "count": 7
     },
     {
-      "path": "/receptes/coliflor-amb-beixamel",
-      "count": 3
+      "path": "/receptes/turbot-al-forn",
+      "count": 4
     },
     {
-      "path": "/receptes/turbot-al-forn",
+      "path": "/receptes/coliflor-amb-beixamel",
       "count": 3
     },
     {
@@ -473,7 +477,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 37,
-    "receptes": 103,
+    "receptes": 106,
     "tags": 8,
     "categories": 6,
     "recomanacions": 1,
@@ -531,7 +535,8 @@
       "2026-11-10": 1,
       "2026-11-12": 1,
       "2026-11-14": 3,
-      "2026-11-18": 1
+      "2026-11-18": 1,
+      "2026-11-20": 2
     },
     "/receptes/com-coure-be-larros-basmati": {
       "2026-07-22": 1,
@@ -584,13 +589,14 @@
       "2026-11-11": 2,
       "2026-11-12": 1
     },
+    "/receptes/turbot-al-forn": {
+      "2026-09-12": 2,
+      "2026-10-28": 1,
+      "2026-11-20": 1
+    },
     "/receptes/coliflor-amb-beixamel": {
       "2026-10-23": 1,
       "2026-11-07": 2
-    },
-    "/receptes/turbot-al-forn": {
-      "2026-09-12": 2,
-      "2026-10-28": 1
     },
     "/receptes/101-canelons-de-peix": {
       "2026-07-21": 1,
@@ -750,7 +756,8 @@
       "2026-11-15": 2,
       "2026-11-17": 1,
       "2026-11-18": 1,
-      "2026-11-19": 2
+      "2026-11-19": 2,
+      "2026-11-20": 3
     },
     "inici": {
       "2026-07-01": 5,
@@ -908,7 +915,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 94
+      "count": 97
     },
     {
       "name": "Desconegut",
