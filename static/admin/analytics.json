@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-23T10:02:20.512105Z",
+  "generated": "2026-11-24T06:37:20.731099Z",
   "period": {
-    "start": "2025-11-23",
-    "end": "2026-11-23"
+    "start": "2025-11-24",
+    "end": "2026-11-24"
   },
-  "total": 162,
+  "total": 163,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -330,6 +330,10 @@
     {
       "date": "2026-11-22",
       "count": 3
+    },
+    {
+      "date": "2026-11-23",
+      "count": 1
     }
   ],
   "hits": [
@@ -370,6 +374,10 @@
       "count": 3
     },
     {
+      "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
+      "count": 3
+    },
+    {
       "path": "/receptes/101-canelons-de-peix",
       "count": 3
     },
@@ -379,10 +387,6 @@
     },
     {
       "path": "/tags/cardamom",
-      "count": 2
-    },
-    {
-      "path": "/receptes/espaguetis-a-la-llimona-spaghetti-limonati",
       "count": 2
     },
     {
@@ -481,7 +485,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 37,
-    "receptes": 109,
+    "receptes": 110,
     "tags": 8,
     "categories": 6,
     "recomanacions": 1,
@@ -604,6 +608,10 @@
       "2026-10-23": 1,
       "2026-11-07": 2
     },
+    "/receptes/espaguetis-a-la-llimona-spaghetti-limonati": {
+      "2026-09-06": 2,
+      "2026-11-23": 1
+    },
     "/receptes/101-canelons-de-peix": {
       "2026-07-21": 1,
       "2026-11-08": 1,
@@ -616,9 +624,6 @@
     "/tags/cardamom": {
       "2026-09-29": 1,
       "2026-11-17": 1
-    },
-    "/receptes/espaguetis-a-la-llimona-spaghetti-limonati": {
-      "2026-09-06": 2
     },
     "/receptes/ramen-de-porc": {
       "2026-08-14": 1,
@@ -764,7 +769,8 @@
       "2026-11-18": 1,
       "2026-11-19": 2,
       "2026-11-20": 3,
-      "2026-11-22": 3
+      "2026-11-22": 3,
+      "2026-11-23": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -834,7 +840,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 110
+      "count": 111
     },
     {
       "name": "Safari",
@@ -851,7 +857,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 72
+      "count": 73
     },
     {
       "name": "iOS",
@@ -878,7 +884,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 104
+      "count": 105
     },
     {
       "name": "desktop",
@@ -900,7 +906,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 143
+      "count": 144
     },
     {
       "name": "United States",
@@ -922,7 +928,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 100
+      "count": 101
     },
     {
       "name": "Desconegut",
