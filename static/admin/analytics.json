@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-24T06:37:20.731099Z",
+  "generated": "2026-11-25T11:55:33.490484Z",
   "period": {
-    "start": "2025-11-24",
-    "end": "2026-11-24"
+    "start": "2025-11-25",
+    "end": "2026-11-25"
   },
-  "total": 163,
+  "total": 164,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -334,6 +334,10 @@
     {
       "date": "2026-11-23",
       "count": 1
+    },
+    {
+      "date": "2026-11-24",
+      "count": 1
     }
   ],
   "hits": [
@@ -343,7 +347,7 @@
     },
     {
       "path": "/receptes/pollastre-al-forn-amb-la-recepte-den-martin-berasategui",
-      "count": 33
+      "count": 34
     },
     {
       "path": "/receptes/com-coure-be-larros-basmati",
@@ -485,7 +489,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 37,
-    "receptes": 110,
+    "receptes": 111,
     "tags": 8,
     "categories": 6,
     "recomanacions": 1,
@@ -545,7 +549,8 @@
       "2026-11-14": 3,
       "2026-11-18": 1,
       "2026-11-20": 2,
-      "2026-11-22": 2
+      "2026-11-22": 2,
+      "2026-11-24": 1
     },
     "/receptes/com-coure-be-larros-basmati": {
       "2026-07-22": 1,
@@ -770,7 +775,8 @@
       "2026-11-19": 2,
       "2026-11-20": 3,
       "2026-11-22": 3,
-      "2026-11-23": 1
+      "2026-11-23": 1,
+      "2026-11-24": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -840,7 +846,7 @@
     {
       "name": "Chrome",
       "id": "Chrome",
-      "count": 111
+      "count": 112
     },
     {
       "name": "Safari",
@@ -857,7 +863,7 @@
     {
       "name": "Android",
       "id": "Android",
-      "count": 73
+      "count": 74
     },
     {
       "name": "iOS",
@@ -884,7 +890,7 @@
     {
       "name": "phone",
       "id": "phone",
-      "count": 105
+      "count": 106
     },
     {
       "name": "desktop",
@@ -906,7 +912,7 @@
     {
       "name": "Spain",
       "id": "ES",
-      "count": 144
+      "count": 145
     },
     {
       "name": "United States",
@@ -928,7 +934,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 101
+      "count": 102
     },
     {
       "name": "Desconegut",
