@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-27T23:05:45.400604Z",
+  "generated": "2026-11-28T14:49:17.249236Z",
   "period": {
-    "start": "2025-11-27",
-    "end": "2026-11-27"
+    "start": "2025-11-28",
+    "end": "2026-11-28"
   },
-  "total": 164,
+  "total": 165,
   "total_unique": 0,
   "hits_by_day": [
     {
@@ -338,6 +338,10 @@
     {
       "date": "2026-11-24",
       "count": 1
+    },
+    {
+      "date": "2026-11-27",
+      "count": 1
     }
   ],
   "hits": [
@@ -350,11 +354,11 @@
       "count": 34
     },
     {
-      "path": "/receptes/com-coure-be-larros-basmati",
-      "count": 10
+      "path": "/receptes/pollastre-rostit-amb-patates",
+      "count": 11
     },
     {
-      "path": "/receptes/pollastre-rostit-amb-patates",
+      "path": "/receptes/com-coure-be-larros-basmati",
       "count": 10
     },
     {
@@ -489,7 +493,7 @@
   "by_lang": {},
   "by_section": {
     "inici": 37,
-    "receptes": 111,
+    "receptes": 112,
     "tags": 8,
     "categories": 6,
     "recomanacions": 1,
@@ -552,6 +556,19 @@
       "2026-11-22": 2,
       "2026-11-24": 1
     },
+    "/receptes/pollastre-rostit-amb-patates": {
+      "2026-07-12": 1,
+      "2026-07-26": 1,
+      "2026-08-01": 1,
+      "2026-09-11": 1,
+      "2026-09-13": 1,
+      "2026-09-17": 1,
+      "2026-10-16": 1,
+      "2026-10-18": 1,
+      "2026-10-26": 1,
+      "2026-11-03": 1,
+      "2026-11-27": 1
+    },
     "/receptes/com-coure-be-larros-basmati": {
       "2026-07-22": 1,
       "2026-09-02": 1,
@@ -563,18 +580,6 @@
       "2026-10-06": 1,
       "2026-10-22": 1,
       "2026-11-15": 1
-    },
-    "/receptes/pollastre-rostit-amb-patates": {
-      "2026-07-12": 1,
-      "2026-07-26": 1,
-      "2026-08-01": 1,
-      "2026-09-11": 1,
-      "2026-09-13": 1,
-      "2026-09-17": 1,
-      "2026-10-16": 1,
-      "2026-10-18": 1,
-      "2026-10-26": 1,
-      "2026-11-03": 1
     },
     "/receptes/curri-casola": {
       "2026-08-08": 1,
@@ -776,7 +781,8 @@
       "2026-11-20": 3,
       "2026-11-22": 3,
       "2026-11-23": 1,
-      "2026-11-24": 1
+      "2026-11-24": 1,
+      "2026-11-27": 1
     },
     "inici": {
       "2026-07-01": 5,
@@ -934,7 +940,7 @@
     {
       "name": "Google",
       "id": "Google",
-      "count": 102
+      "count": 103
     },
     {
       "name": "Desconegut",
